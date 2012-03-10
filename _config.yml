@@ -12,11 +12,11 @@ pygments: true
 title : Pittsburgh TechFest
 tagline: Pittsburgh TechFest is a community-run conference for the developer community in Southwestern Pennsylvania and the surrounding areas.
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Pittsburgh TechFest
+#  email : blah@email.test
+  github : pghtechfest
+  twitter : pghtechfest
+#  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -79,7 +79,7 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : disqus
+    provider : false
     disqus :
       short_name : jekyllbootstrap
     livefyre :
@@ -97,7 +97,7 @@ JB :
   # Set 'provider' to false to turn analytics off globally.
   #        
   analytics :
-    provider : google 
+    provider : false
     google : 
         tracking_id : 'UA-123-12'
     getclicky :
