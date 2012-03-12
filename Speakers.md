@@ -3,6 +3,7 @@ layout: page
 title: Speakers
 header: Submit Your Talk
 group: navigation
+date: 01/01/2012
 ---
 {% include JB/setup %}
 
