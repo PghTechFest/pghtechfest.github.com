@@ -18,6 +18,8 @@ agile, career management, presentation skills, winning friends and influencing p
 the "Speakers" tab above to submit your talk.
 
 We are also accepting sponsors. Click on the "Sponsors" link above for more information.
+
+[La Roche College](http://www.laroche.edu/about-LRC/directions.asp) is located in the North Hills suburbs of Pittsburgh.
     
 #### Recent News
 
