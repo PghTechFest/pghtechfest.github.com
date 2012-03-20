@@ -19,6 +19,9 @@ the "Speakers" tab above to submit your talk.
 
 We are also accepting sponsors. Click on the "Sponsors" link above for more information.
 
+If you would like to stay up to date on the latest happenings, join our mailing list on
+ [Google Groups](https://groups.google.com/forum/#!forum/pghtechfest).
+
 [La Roche College](http://www.laroche.edu/about-LRC/directions.asp) is located in the North Hills suburbs of Pittsburgh.
     
 #### Recent News
