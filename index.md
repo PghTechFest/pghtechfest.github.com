@@ -23,6 +23,11 @@ If you would like to stay up to date on the latest happenings, join our mailing 
  [Google Groups](https://groups.google.com/forum/#!forum/pghtechfest).
 
 [La Roche College](http://www.laroche.edu/about-LRC/directions.asp) is located in the North Hills suburbs of Pittsburgh.
+
+We are on [Lanyrd](http://lanyrd.com/2012/pghtechfest/) and [LinkedIn](http://linkd.in/Hkw1M5), too.
+
+Registration will be opening in late April/early May - check back for updates. Note that this will not be a free
+event, but we are expecting the cost to be very low (in the neighborhood of $10).
     
 #### Recent News
 
