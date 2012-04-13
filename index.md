@@ -12,6 +12,10 @@ Pittsburgh area would be interested in having an event where developers interest
 could gather together and learn from each other. Everyone agreed that it was a good idea and Pittsburgh TechFest
 was born.
 
+To set the tone for a conference focused on learning something new and maybe even stepping out of your comfort zone,
+we have excited to announce [Doc Norton](http://www.leandog.com/who-we-are/team/herding-dogs/michael-doc-norton/) of
+LeanDog as our keynote speaker.
+
 We are currently accepting submissions for presentations. Anything related to software development is fair game.
 Java, Ruby, PHP, Perl, Python, SQL (any dialect), NoSQL, C#, VB, doesn't matter. "Soft" skills like project management,
 agile, career management, presentation skills, winning friends and influencing people - all good topics. Click on
