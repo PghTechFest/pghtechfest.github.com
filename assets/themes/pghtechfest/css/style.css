@@ -1,0 +1,279 @@
+body { /*#FF6A00*/
+	background-color: #efefef;
+	margin: 0px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 13pt;
+	color: #222222;
+}
+
+.page {
+	width: 900px;
+	margin: 0 auto 40px;
+}
+
+h1, h2, h3, h4, h5, h6, dt, a.button, input[type=submit] {
+	font-family: 'Allan', cursive;
+}
+
+.navbar {
+	background: url(http://localhost:4000/assets/themes/pghtechfest/images/raysbackground1.png) #FFA300;
+	background-position: center -190px;
+	background-repeat: no-repeat;
+	height: 400px;
+	border-bottom: 40px #7F3300 solid;
+	-moz-box-shadow: 0 0 85px rgba(0, 0, 0, .5);
+	-webkit-box-shadow: 0 0 85px rgba(0, 0, 0, .5);
+	box-shadow: 0 0 85px rgba(0, 0, 0, .5);
+}
+
+.navbar ul {
+	margin-top: 0;
+}
+
+.skyline {
+	background: url(/assets/themes/pghtechfest/images/smallorangeskyline.png) left bottom;
+	background-repeat: no-repeat;
+	height: 200px;
+	width: 505px;
+}
+
+.navbar-inner {
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 102px;
+	color: #FCF5C9;
+	text-shadow: 0px 0px 15px #7F3300;
+}
+
+.navbar-inner h1 a {
+	color: #efefef;
+}
+
+.navbar-inner h1 {
+	color: #efefef;
+	text-align: center;
+	font-size: 5em;
+	text-shadow: 0px 0px 15px #7F3300;
+	margin-bottom: 0;
+}
+
+.navbar-inner h2 {
+	font-size: 5em;
+	margin: 0;
+	margin-bottom: -75px;
+}
+
+.navbar-inner .info {
+	margin-top: 50px;
+	float: right;
+	display: inline-block;
+	text-align: right;
+	width: 400px;
+}
+
+.navbar-inner .info span {
+	font-weight: bold;
+	font-size: 3em;
+	display: block;
+}
+
+.navbar-inner .info .location {
+	font-size: 2em;
+}
+
+h1 {
+	font-size: 3em;
+	margin-top: 0px;
+}
+
+.main-content .header-caption {
+	font-size: 2.5em;
+	display: inline-block;
+	width: 480px;
+	font-weight: bold;
+	margin-left: 20px;
+	margin-top: 100px;
+	color: #555555;
+}
+
+a, a:visited, a:link {
+	text-decoration: none;
+	color: #7F3300;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.keynote, .help-out, .about {
+	padding-top: 50px;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+.keynote img {
+	border: 10px white solid;
+	-moz-box-shadow: 0px 0px 10px #333333;
+	-webkit-box-shadow: 0px 0px 10px #333333;
+	box-shadow: 0px 0px 10px #333333;
+}
+
+.keynote .presenter {
+	width: 600px;
+	float: right;
+}
+
+.keynote .presenter h3,
+.agenda h3,
+.about h3,
+.help-out h3 {
+	font-size: 2em;
+	margin-bottom: 0;
+	margin-top: 0;
+}
+
+.keynote .presenter h4,
+.agenda h4,
+.about h4,
+.help-out h4 {
+	font-size: 1.5em;
+	margin-bottom: 0;
+	margin-top: 20px;
+}
+
+.keynote .presenter span {
+	display: block;
+	margin-bottom: 1em;
+	text-align: justify;
+}
+
+.keynote .presenter .name {
+	font-size: 2em;
+	color: #444444;
+}
+
+.agenda {
+	text-align: center;
+	margin-top: 2em;
+	margin-bottom: 2em;
+	border-top: 1px solid #dddddd;
+	border-bottom: 1px solid #dddddd;
+	padding: 50px;
+}
+
+.about {
+	text-align: justify;
+}
+
+.help-out > div {
+	display: inline-block;
+	width: 45%;
+	margin: 20px;
+}
+
+.help-out .left-column {
+	float: left;
+}
+.help-out .right-column {
+	float: right;
+}
+
+.help-out .ways > div a {
+	display: inline-block;
+	margin-left: 20px;
+	float: right;
+}
+
+.help-out .ways > div {
+	display: block;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+.help-out p {
+	text-align: justify;
+}
+
+a.button, input[type=submit] {
+	background-color: #7F3300;
+	color: #efefef;
+	text-shadow: 0px 0px 15px #7F3300;
+	font-weight: bold;
+	padding: 15px;
+	font-size: 1.5em;
+	-moz-box-shadow: 0px 0px 10px #333333;
+	-webkit-box-shadow: 0px 0px 10px #333333;
+	box-shadow: 0px 0px 10px #333333;
+	cursor: pointer;
+	border: 0;
+}
+a.button:hover, input[type=submit]:hover {
+	background-color: #FFA300;
+	text-decoration: none;
+}
+
+h1 a:hover {
+	text-decoration: none;
+}
+
+footer {
+	text-align: center;
+}
+
+.clear {
+	clear: both;
+}
+
+/* @override http://www.morningcopy.com.au/css/google-form.css */
+
+.ss-q-title
+{display:block;font-weight:bold;
+color: #45321c;}
+
+form ul
+{padding:0 0 1em 1em}ol{padding:0 0 1em 1.3em}
+
+form li
+{line-height:1.5em;padding:0 0 .5em 0}
+
+form p
+{padding:0 0 1em 0}
+
+form input,select,textarea,option
+{font-family:inherit;font-size: 16px;
+padding: 5px;
+border: 1px solid #cccccc;
+color: #424242;
+background-color: #ffffff;}
+
+form input[type=text]
+{width:692px;}
+
+form .ss-textarea
+{max-width:99%}
+
+form .ss-q-help
+{display:block;color:#666;margin:.1em 0 .25em 0}
+
+form .ss-q-long
+{max-width:90%}
+
+form .ss-form-entry
+{margin-bottom:1.5em}
+
+form .ss-choices
+{list-style:none;margin:.5em 0 0 0;padding:0}
+
+form .ss-required-asterisk
+{color:#c43b1d}
+
+form label
+{display:block;cursor:pointer}
+
+form ul label
+{display:inline}
+
+#entry_9 {
+	width: 200px;
+}
