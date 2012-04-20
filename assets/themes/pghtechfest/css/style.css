@@ -185,6 +185,10 @@ a:hover {
 	float: right;
 }
 
+.help-out .center {
+	text-align: center;
+}
+
 .help-out .ways > div a {
 	display: inline-block;
 	margin-left: 20px;
@@ -221,7 +225,10 @@ a:hover {
 }
 
 .sponsors {
-	border-top: 1px solid #dddddd;
+	margin-top: 100px;
+	border: 1px solid #d0d0d0;
+	background-color: #dfdfdf;
+	border-radius: 20px 20px;
 }
 
 .sponsors h3 {
@@ -229,8 +236,9 @@ a:hover {
 }
 
 .sponsors a {
-	display: block;
+	display: inline-block;
 	text-align: center;
+	vertical-align: middle;
 	margin: 50px;
 }
 
