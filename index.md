@@ -27,13 +27,35 @@ layout: default
 
 	<p>Get the latest information by joining the <a href="https://groups.google.com/forum/#!forum/pghtechfest">mailing list</a>. We are on <a href="http://lanyrd.com/2012/pghtechfest/">Lanyrd</a> and <a href="http://linkd.in/Hkw1M5">LinkedIn</a>, too.</p>
 
-	<h4>Where is it at?</h4>
+	<h4>Where will it be?</h4>
 
 	<p><a href="http://www.laroche.edu/about-LRC/directions.asp">La Roche College</a> is located in the North Hills suburbs of Pittsburgh.</p>
 
 	<h4>How do I register?</h4>
 
 	<p>Registration will be opening in late April/early May. Check back for updates. Note that <strong>this will not be a free event</strong>. Expect the cost to be very low (in the neighborhood of $10). More details on this soon.</p>
+</div>
+
+<div class="user-groups">
+	<h3>Pittsburgh User Groups</h3>
+
+	<p>
+		Don't see your group listed? <a href="mailto:ekepes@gmail.com">Let us know!</a>
+	</p>
+
+	<ul>
+		<li><span class="topic">.NET</span><a href="http://pghdotnet.org/">PghDotNet</a></li>
+		<li><span class="topic">Java</span>PittJUG</li>
+		<li><span class="topic">SQL Server</span><a href="http://pitssug.sqlpass.org/Home.aspx">Pittsburgh SQL Server Users Group</a></li>
+		<li><span class="topic">PHP</span><a href="http://www.meetup.com/Pittsburgh-PHP-Developers-Group/">Pittsburgh PHP Developers Group</a></li>
+		<li><span class="topic">Ruby</span><a href="http://pghrb.heroku.com/">Pittsburgh Ruby Brigade</a></li>
+		<li><span class="topic">Powershell</span><a href="http://powershellgroup.org/Pittsburgh.PA">Pittsburgh Powershell Users Group</a></li>
+		<li><span class="topic">JavaScript</span><a href="http://www.meetup.com/Pittsburgh-JavaScript-Developers/">Pittsburgh JavaScript Developers</a></li>
+		<li><span class="topic">jQuery</span><a href="http://jburgh.com/">jBurgh</a></li>
+		<li><span class="topic">Agile</span><a href="http://www.meetup.com/PittsburghAgile/">PittAgile</a></li>
+		<li><span class="topic">Python</span><a href="http://pghpython.org/">PGHPython</a></li>
+		<li><span class="topic">Perl</span><a href="http://www.pm.org/">PerlMongers</a></li>
+	</ul>
 </div>
 
 <div class="clear"></div>
@@ -63,7 +85,11 @@ layout: default
 
 <div class="clear"></div>
 
-
+<div class="sponsors">
+	<h3>Thanks to all of our sponsors.</h3>
+	<a href="http://www.componentone.com/"><img src="/assets/themes/pghtechfest/images/componentone_logo_horizonal_black.png" alt="Component One" width="300" /></a>
+	<a href="http://www.microsoft.com/"><img src="/assets/themes/pghtechfest/images/Microsoft_Logo_Web.png" alt="Microsoft" width="250" /></a>
+</div>
 
 
 <!--

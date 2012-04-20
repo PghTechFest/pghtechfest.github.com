@@ -11,7 +11,7 @@ body { /*#FF6A00*/
 	margin: 0 auto 40px;
 }
 
-h1, h2, h3, h4, h5, h6, dt, a.button, input[type=submit] {
+h1, h2, h3, h4, h5, h6, dt, a.button, input[type=submit],.user-groups ul li .topic {
 	font-family: 'Allan', cursive;
 }
 
@@ -41,7 +41,7 @@ h1, h2, h3, h4, h5, h6, dt, a.button, input[type=submit] {
 	width: 900px;
 	margin-left: auto;
 	margin-right: auto;
-	padding-top: 102px;
+	padding-top: 92px;
 	color: #FCF5C9;
 	text-shadow: 0px 0px 15px #7F3300;
 }
@@ -106,7 +106,11 @@ a:hover {
 	text-decoration: underline;
 }
 
-.keynote, .help-out, .about {
+.keynote,
+.help-out,
+.about,
+.user-groups,
+.sponsors {
 	padding-top: 50px;
 	padding-left: 50px;
 	padding-right: 50px;
@@ -127,7 +131,9 @@ a:hover {
 .keynote .presenter h3,
 .agenda h3,
 .about h3,
-.help-out h3 {
+.help-out h3,
+.user-groups h3,
+.sponsors h3 {
 	font-size: 2em;
 	margin-bottom: 0;
 	margin-top: 0;
@@ -156,7 +162,7 @@ a:hover {
 .agenda {
 	text-align: center;
 	margin-top: 2em;
-	margin-bottom: 2em;
+	margin-bottom: 1em;
 	border-top: 1px solid #dddddd;
 	border-bottom: 1px solid #dddddd;
 	padding: 50px;
@@ -195,6 +201,39 @@ a:hover {
 	text-align: justify;
 }
 
+.user-groups ul {
+	list-style: none;
+	padding-left: 0;
+}
+
+.user-groups ul li {
+	font-size: 1.5em;
+	margin: 10px;
+}
+
+.user-groups ul li .topic {
+	width: 100px;
+	text-align: right;
+	display: inline-block;
+	margin-right: 50px;
+	font-weight: bold;
+	color: #999999;
+}
+
+.sponsors {
+	border-top: 1px solid #dddddd;
+}
+
+.sponsors h3 {
+	text-align: center;
+}
+
+.sponsors a {
+	display: block;
+	text-align: center;
+	margin: 50px;
+}
+
 a.button, input[type=submit] {
 	background-color: #7F3300;
 	color: #efefef;
@@ -219,6 +258,13 @@ h1 a:hover {
 
 footer {
 	text-align: center;
+}
+
+footer img {
+	width: 25px;
+	height: auto;
+	vertical-align: top;
+	margin-right: 10px;
 }
 
 .clear {
