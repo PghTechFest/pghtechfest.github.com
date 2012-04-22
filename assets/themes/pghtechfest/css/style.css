@@ -16,7 +16,7 @@ h1, h2, h3, h4, h5, h6, dt, a.button, input[type=submit],.user-groups ul li .top
 }
 
 .navbar {
-	background: url(http://localhost:4000/assets/themes/pghtechfest/images/raysbackground1.png) #FFA300;
+	background: url(/assets/themes/pghtechfest/images/raysbackground1.png) #FFA300;
 	background-position: center -190px;
 	background-repeat: no-repeat;
 	height: 400px;
