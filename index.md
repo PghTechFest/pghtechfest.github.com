@@ -43,7 +43,7 @@ layout: default
 
 	<ul>
 		<li><span class="topic">.NET</span><a href="http://pghdotnet.org/">PghDotNet</a></li>
-		<li><span class="topic">Java</span>PittJUG</li>
+		<li><span class="topic">Java</span><a href="http://pittjug.java.net/">PittJUG</a></li>
 		<li><span class="topic">SQL Server</span><a href="http://pitssug.sqlpass.org/Home.aspx">Pittsburgh SQL Server Users Group</a></li>
 		<li><span class="topic">PHP</span><a href="http://www.meetup.com/Pittsburgh-PHP-Developers-Group/">Pittsburgh PHP Developers Group</a></li>
 		<li><span class="topic">Ruby</span><a href="http://pghrb.heroku.com/">Pittsburgh Ruby Brigade</a></li>
