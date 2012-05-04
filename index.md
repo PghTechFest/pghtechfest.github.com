@@ -15,7 +15,7 @@ layout: default
 </div>
 
 <div class="agenda clear">
-	<h3>Agenda coming soon. <a href="/Speakers.html">Submit a talk!</a></h3>
+	<h3>Agenda coming soon.</h3>
 </div>
 
 <div class="about">
@@ -57,27 +57,6 @@ layout: default
 </div>
 
 <div class="help-out">
-	<h3>Want to help? Get involved.</h3>
-	<a name="help-out"></a>
-
-	<div class="left-column">
-	
-		<div class="ways">
-			<div class="sponsor">
-				<a href="/Sponsors.html" class="button">I can help!</a>Like the idea, and want to contribute? Become a sponsor.
-			</div>
-		</div>
-	</div>
-
-	<div class="right-column">
-	
-		<div class="ways">
-			<div class="speak">
-				<a href="/Speakers.html" class="button">I have a talk!</a>Passionate? Like to teach others? Submit a talk, even if it&apos;s your first time.
-			</div>
-		</div>
-	</div>
-
 	<h3>Spread the word.</h3>
 	<div class="left-column center">
 	    <a href="https://twitter.com/intent/tweet?button_hashtag=pghtechfest" class="twitter-hashtag-button">Tweet #pghtechfest</a>
@@ -86,6 +65,20 @@ layout: default
 	<div class="right-column center">
       <a name="fb_share" type="button" share_url="{{ HOME_PATH }}">Share this event on Facebook</a>
 	</div>	
+</div>
+
+<div class="clear"></div>
+
+<div class="help-out">
+	<h3>Want to help? Get involved.</h3>
+	<a name="help-out"></a>
+	<div>
+		<div class="ways">
+			<div class="sponsor">
+				<a href="/Sponsors.html" class="button">I can help!</a>Like the idea, and want to contribute? Become a sponsor.
+			</div>
+		</div>
+	</div>
 </div>
 
 <div class="sponsors clear">
