@@ -40,6 +40,7 @@ Pittsburgh TechFest is a one-day event where software development professionals 
 		<li><span class="topic">Agile</span><a href="http://www.meetup.com/PittsburghAgile/">PittAgile</a></li>
 		<li><span class="topic">Python</span><a href="http://pghpython.org/">PGHPython</a></li>
 		<li><span class="topic">Perl</span><a href="http://www.pm.org/">PerlMongers</a></li>
+		<li><span class="topic">Hadoop</span><a href="http://www.meetup.com/HUG-Pittsburgh/">Pittsburgh Hadoop</a></li>
 	</ul>
 </div>
 
