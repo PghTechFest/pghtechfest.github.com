@@ -6,9 +6,11 @@ layout: default
 <div class="about">
 	<h3>What is Pittsburgh TechFest?</h3>
 
-	<p>An event. Okay, more specifically, a technology event. That&apos;s about as specific as it gets. Developers will be speaking on a variety of topics. Anything related to software development is fair game. Java, Ruby, PHP, Perl, Python, SQL (any dialect), NoSQL, C#, VB, doesn&apos;t matter. Soft skills make great topics too: project management, agile, career management, presentation skills, winning friends and influencing people.</p>
+	<p>An event. Okay, more specifically, a technology event. 
+Pittsburgh TechFest is a one-day event where software development professionals from Southwestern Pennsylvania and surrounding areas will get together to talk and learn about perfecting our craft. Topics will include coding, tools, agile, project management, etc. All development disciplines (devs, testers, PMs, DBAs, BAs etc.) and all development stacks (Ruby, Java, .Net, JavaScript, Python, SQL Server, Oracle, etc.) are welcome! 
+</p>
 
-	<p>Get the latest information by joining the <a href="https://groups.google.com/forum/#!forum/pghtechfest">mailing list</a>. We are on <a href="http://lanyrd.com/2012/pghtechfest/">Lanyrd</a> and <a href="http://linkd.in/Hkw1M5">LinkedIn</a>, too.</p>
+	<p>Get the latest information by joining the <a href="https://groups.google.com/forum/#!forum/pghtechfest">mailing list</a>. </p>
 
 	<h4>Where will it be?</h4>
 
@@ -23,7 +25,7 @@ layout: default
 	<h3>This is our community.</h3>
 
 	<p>
-		Don't see your group listed? <a href="mailto:ekepes@gmail.com">Let us know!</a>
+		Don't see your group listed? <a href="mailto:pittsburghtechfest@gmail.com">Let us know!</a>
 	</p>
 
 	<ul>
@@ -63,21 +65,8 @@ layout: default
 		</div>
 	</div>
 
-	<h3 class="clear">Spread the word.</h3>
-	<div class="left-column center">
-	    <a href="https://twitter.com/intent/tweet?button_hashtag=pghtechfest" class="twitter-hashtag-button">Tweet #pghtechfest</a>
-		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 	</div>
-	<div class="right-column center">
-      <a name="fb_share" type="button" share_url="{{ HOME_PATH }}">Share this event on Facebook</a>
-	</div>
-</div>
 
-<div class="sponsors clear">
-	<h3>Thanks to all of our sponsors.</h3>
-	<a href="http://www.componentone.com/"><img src="/assets/themes/pghtechfest/images/componentone_logo_horizonal_black.png" alt="Component One" width="300" /></a>
-	<a href="http://www.microsoft.com/"><img src="/assets/themes/pghtechfest/images/Microsoft_Logo_Web.png" alt="Microsoft" width="250" /></a>
-</div>
 
 
 <!--
