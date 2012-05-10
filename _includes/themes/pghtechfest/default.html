@@ -18,41 +18,43 @@
     <script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script>
     <!-- Le fav and touch icons -->
   <!-- Update these with your own images
-    <link rel="shortcut icon" href="images/favicon.ico">
-    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+    <link rel="shortcut icon" href="/assets/themes/pghtechfest/images/favicon.ico">
+    <link rel="apple-touch-icon" href="/assets/themes/pghtechfest/images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/assets/themes/pghtechfest/images/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/assets/themes/pghtechfest/images/apple-touch-icon-114x114.png">
   -->
   </head>
 
   <body>
     <div class="navbar">
       <div class="navbar-inner">
-        <div class="container">
-          <h1><a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a></h1>
-          <div class="info">
-            <span>June 9, 2012</span>
-            <span class="location">@ La Roche College</span>
-          </div>
-          <div class="skyline"></div>
-        </div>
+        <div class="container"> <a href="/"><img src="/assets/themes/pghtechfest/images/pittsburghtechfest-vector.png" width="350" height="200" alt="Pittsburgh Tech Fest"></a>
+      <div class="info"> <span>June 9, 2012 <br>
+@ <br>
+La Roche College</span><a href="https://twitter.com/pghtechfest12" target="_blank"><img src="/assets/themes/pghtechfest/images/twitter.png" width="64" height="64" alt="twitter"></a><a href="http://linkd.in/Hkw1M5" target="_blank"><img src="/assets/themes/pghtechfest/images/linkedin.png" alt="linkedin" width="64" height="64" border="0"></a><a href="#"><img src="/assets/themes/pghtechfest/images/facebook.png" width="64" height="64" alt="facebook"></a> </div>
+    </div>
       </div>
     </div>
     <div class="page">
 
       <div class="container">
-          <!--<ul class="nav">
+          <ul class="nav">
             {% assign pages_list = site.pages %}
             {% assign group = 'navigation' %}
             {% include JB/pages_list %}
-          </ul>-->
+          </ul>
 
         <div class="content">
           {{ content }}
         </div>
 
         <footer>
-          <p>&copy; {{ site.author.name }} 2012<br/>site design by <a href="http://www.johncoder.com/"><img src="https://si0.twimg.com/profile_images/1435806252/1310334888255_reasonably_small.jpg" />johncoder</a></p>
+          <p>&copy; {{ site.author.name }} 2012<br/>site design by:<br> <a href="http://www.johncoder.com/"><img src="https://si0.twimg.com/profile_images/1435806252/1310334888255_reasonably_small.jpg" />johncoder</a>
+          <br>
+          and
+          <br>
+          <a href="http://www.treetop.us/"><img src="https://si0.twimg.com/profile_images/1706646743/treetop_mini.png" alt="Treetop Interactive"> Treetop Interactive</a>
+          </p>
         </footer>
 
       </div> <!-- /container -->

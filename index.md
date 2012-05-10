@@ -15,7 +15,7 @@ layout: default
 </div>
 
 <div class="agenda clear">
-	<h3>Agenda coming soon. <a href="/Speakers.html">Submit a talk!</a></h3>
+	<h3>Session information coming soon.</h3>
 </div>
 
 <div class="about">
@@ -31,7 +31,7 @@ layout: default
 
 	<h4>How do I register?</h4>
 
-	<p>Registration will be opening in late April/early May. Check back for updates. Note that <strong>this will not be a free event</strong>. Expect the cost to be very low (in the neighborhood of $10). More details on this soon.</p>
+	<p><a href="/Registration.html">Registration</a> is now open!  For the low cost of $10, enjoy a full day of knowledgable speakers across a wide variety of topics.</p>
 </div>
 
 <div class="user-groups">
@@ -61,19 +61,19 @@ layout: default
 	<a name="help-out"></a>
 
 	<div class="left-column">
-	
+
 		<div class="ways">
 			<div class="sponsor">
-				<a href="/Sponsors.html" class="button">I can help!</a>Like the idea, and want to contribute? Become a sponsor.
+				<a href="/Sponsors.html" class="button">Sponsor us!</a>Like the idea, and want to contribute? Become a sponsor.
 			</div>
 		</div>
 	</div>
 
 	<div class="right-column">
-	
+
 		<div class="ways">
 			<div class="speak">
-				<a href="/Speakers.html" class="button">I have a talk!</a>Passionate? Like to teach others? Submit a talk, even if it&apos;s your first time.
+				<a href="https://groups.google.com/forum/#!forum/pghtechfest" target="_blank" class="button">Join us!</a>Join the community in our Google Group.
 			</div>
 		</div>
 	</div>
@@ -85,7 +85,7 @@ layout: default
 	</div>
 	<div class="right-column center">
       <a name="fb_share" type="button" share_url="{{ HOME_PATH }}">Share this event on Facebook</a>
-	</div>	
+	</div>
 </div>
 
 <div class="sponsors clear">
@@ -93,36 +93,3 @@ layout: default
 	<a href="http://www.componentone.com/"><img src="/assets/themes/pghtechfest/images/componentone_logo_horizonal_black.png" alt="Component One" width="300" /></a>
 	<a href="http://www.microsoft.com/"><img src="/assets/themes/pghtechfest/images/Microsoft_Logo_Web.png" alt="Microsoft" width="250" /></a>
 </div>
-
-
-<!--
-In the Fall of 2011, the organizers of Pittsburgh Code Camp decided to see if the other User Groups in the
-Pittsburgh area would be interested in having an event where developers interested in all sorts of technologies
-could gather together and learn from each other. Everyone agreed that it was a good idea and Pittsburgh TechFest
-was born.
-
-We are currently accepting submissions for presentations. Anything related to software development is fair game.
-Java, Ruby, PHP, Perl, Python, SQL (any dialect), NoSQL, C#, VB, doesn't matter. "Soft" skills like project management,
-agile, career management, presentation skills, winning friends and influencing people - all good topics. Click on
-the "Speakers" tab above to submit your talk.
-
-We are also accepting sponsors. Click on the "Sponsors" link above for more information.
-
-If you would like to stay up to date on the latest happenings, join our mailing list on
- [Google Groups](https://groups.google.com/forum/#!forum/pghtechfest).
-
-[La Roche College](http://www.laroche.edu/about-LRC/directions.asp) is located in the North Hills suburbs of Pittsburgh.
-
-We are on [Lanyrd](http://lanyrd.com/2012/pghtechfest/) and [LinkedIn](http://linkd.in/Hkw1M5), too.
-
-Registration will be opening in late April/early May - check back for updates. Note that this will not be a free
-event, but we are expecting the cost to be very low (in the neighborhood of $10).
-    
-#### Recent News
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
--->

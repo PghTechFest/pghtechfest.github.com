@@ -11,16 +11,20 @@ body { /*#FF6A00*/
 	margin: 0 auto 40px;
 }
 
+.content {
+	min-height: 500px;
+}
+
 h1, h2, h3, h4, h5, h6, dt, a.button, input[type=submit],.user-groups ul li .topic {
 	font-family: 'Allan', cursive;
 }
 
 .navbar {
-	background: url(/assets/themes/pghtechfest/images/raysbackground1.png) #FFA300;
-	background-position: center -190px;
-	background-repeat: no-repeat;
-	height: 400px;
-	border-bottom: 40px #7F3300 solid;
+	/*background:  #FFA300 url(/assets/themes/pghtechfest/images/raysbackground1.png);
+	background-position: center -375px;
+	background-repeat: no-repeat; */
+	height: 225px;
+	border-bottom: 40px #000 solid;
 	-moz-box-shadow: 0 0 85px rgba(0, 0, 0, .5);
 	-webkit-box-shadow: 0 0 85px rgba(0, 0, 0, .5);
 	box-shadow: 0 0 85px rgba(0, 0, 0, .5);
@@ -41,9 +45,9 @@ h1, h2, h3, h4, h5, h6, dt, a.button, input[type=submit],.user-groups ul li .top
 	width: 900px;
 	margin-left: auto;
 	margin-right: auto;
-	padding-top: 92px;
-	color: #FCF5C9;
-	text-shadow: 0px 0px 15px #7F3300;
+	padding-top: 20px;
+	color: #000000;
+	text-shadow: 0px 0px 5px #CCC;
 }
 
 .navbar-inner h1 a {
@@ -65,21 +69,51 @@ h1, h2, h3, h4, h5, h6, dt, a.button, input[type=submit],.user-groups ul li .top
 }
 
 .navbar-inner .info {
-	margin-top: 50px;
+	margin-top: 0px;
 	float: right;
 	display: inline-block;
-	text-align: right;
-	width: 400px;
+	text-align: center;
+	width: 250px;
 }
 
 .navbar-inner .info span {
 	font-weight: bold;
-	font-size: 3em;
+	font-size: 2em;
 	display: block;
+	font-family: 'Allan',cursive;
 }
 
 .navbar-inner .info .location {
 	font-size: 2em;
+}
+.nav, .nav ul {
+	padding: 0;
+	margin: -40px 0px 0px 0px;
+	list-style: none;
+	height:40px;
+	background-color:#000;
+}
+
+.nav a {
+	display: block;
+	padding:5px 50px 0px 50px;
+	height:35px;
+	font-family: 'Allan',cursive;
+	color:#CCC !important;
+	font-size:22px;
+}
+.nav a:hover {
+	color:#FFFFFF !important;
+	text-decoration:none;
+	background-color:#494949;
+}
+
+.nav li:first-child {
+	margin-left:-6%;
+}
+.nav li {
+	float: left;
+	padding:0 0 0 0;
 }
 
 h1 {
@@ -110,7 +144,8 @@ a:hover {
 .help-out,
 .about,
 .user-groups,
-.sponsors {
+.sponsors,
+#reg_title {
 	padding-top: 50px;
 	padding-left: 50px;
 	padding-right: 50px;
@@ -211,7 +246,7 @@ a:hover {
 }
 
 .user-groups ul li {
-	font-size: 1.5em;
+	font-size: 13pt;
 	margin: 10px;
 }
 
@@ -240,6 +275,14 @@ a:hover {
 	text-align: center;
 	vertical-align: middle;
 	margin: 50px;
+}
+.sponsorspage {
+	margin-top: 25px;
+	padding-top: 0px;
+}
+
+.sponsorspage a {
+	margin: 30px;
 }
 
 a.button, input[type=submit] {
