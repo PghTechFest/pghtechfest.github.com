@@ -3,21 +3,6 @@ layout: default
 ---
 {% include JB/setup %}
 
-<div class="keynote">
-	<img src="http://a0.twimg.com/profile_images/1358796499/doc_at_sandcastle_style_reasonably_small.jpg" alt="Michael &quot;Doc&quot; Norton" />
-	<div class="presenter">
-		<h3>Keynote By</h3>
-		<span class="name">Michael &quot;Doc&quot; Norton</span>
-		<div class="contact">Twitter: <a href="http://www.twitter.com/DocOnDev">@DocOnDev</a></div>
-		<span class="contact"><a href="http://www.docondev.com/">http://www.docondev.com/</a></span>
-		<span class="bio">Michael Norton (Doc) is an Agile Coach and a partner with <a href="http://www.leandog.com">LeanDog</a> living in Wadsworth, OH. Doc's experience covers a wide range of development topics. Doc declares expertise in no single language or methodology and is immediately suspicious of anyone who declares such expertise. A frequent speaker, Doc is passionate about helping others become better developers, working with teams to improve delivery, and Software Craftsmanship.</span>
-	</div>
-</div>
-
-<div class="agenda clear">
-	<h3>Session information coming soon.</h3>
-</div>
-
 <div class="about">
 	<h3>What is Pittsburgh TechFest?</h3>
 
