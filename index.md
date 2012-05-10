@@ -63,21 +63,9 @@ layout: default
 		</div>
 	</div>
 
-	<h3 class="clear">Spread the word.</h3>
-	<div class="left-column center">
-	    <a href="https://twitter.com/intent/tweet?button_hashtag=pghtechfest" class="twitter-hashtag-button">Tweet #pghtechfest</a>
-		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-	</div>
-	<div class="right-column center">
-      <a name="fb_share" type="button" share_url="{{ HOME_PATH }}">Share this event on Facebook</a>
-	</div>
+	
 </div>
 
-<div class="sponsors clear">
-	<h3>Thanks to all of our sponsors.</h3>
-	<a href="http://www.componentone.com/"><img src="/assets/themes/pghtechfest/images/componentone_logo_horizonal_black.png" alt="Component One" width="300" /></a>
-	<a href="http://www.microsoft.com/"><img src="/assets/themes/pghtechfest/images/Microsoft_Logo_Web.png" alt="Microsoft" width="250" /></a>
-</div>
 
 
 <!--
