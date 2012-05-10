@@ -1,12 +1,18 @@
 ---
 layout: page
+<<<<<<< HEAD
 title: Speakers
 header: Speakers
+=======
+title: 
+header: Submit Your Talk
+>>>>>>> 8daf6927322d58b6a931cc44f89b36a30999bf48
 group: navigation
 date: 01/01/2012
 ---
 {% include JB/setup %}
 
+<<<<<<< HEAD
 <div class="clear">
   <img src="http://a0.twimg.com/profile_images/1358796499/doc_at_sandcastle_style_reasonably_small.jpg" alt="Michael &quot;Doc&quot; Norton" style="float: left" />
   <div  style="float: right; width: 600px">
@@ -19,3 +25,6 @@ date: 01/01/2012
 </div>
 <div style="padding-top: 25px; text-align:center;" class="clear"><h2>Additional speaker information very shortly!</h2></div>
 
+=======
+Selections for Pittsburgh TechFest 2012 have been made. Thanks for your interest - please check back next year!
+>>>>>>> 8daf6927322d58b6a931cc44f89b36a30999bf48
