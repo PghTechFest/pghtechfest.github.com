@@ -374,3 +374,6 @@ form ul label
 #entry_9 {
 	width: 200px;
 }
+a img {
+	border: none !important;
+}
