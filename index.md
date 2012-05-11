@@ -6,8 +6,8 @@ layout: default
 <div class="about">
 	<h3>What is Pittsburgh TechFest?</h3>
 
-	<p>An event. Okay, more specifically, a technology event. 
-Pittsburgh TechFest is a one-day event where software development professionals from Southwestern Pennsylvania and surrounding areas will get together to talk and learn about perfecting our craft. Topics will include coding, tools, agile, project management, etc. All development disciplines (devs, testers, PMs, DBAs, BAs etc.) and all development stacks (Ruby, Java, .Net, JavaScript, Python, SQL Server, Oracle, etc.) are welcome! 
+	<p>An event. Okay, more specifically, a technology event.
+Pittsburgh TechFest is a one-day event where software development professionals from Southwestern Pennsylvania and surrounding areas will get together to talk and learn about perfecting our craft. Topics will include coding, tools, agile, project management, etc. All development disciplines (devs, testers, PMs, DBAs, BAs etc.) and all development stacks (Ruby, Java, .Net, JavaScript, Python, SQL Server, Oracle, etc.) are welcome!
 </p>
 
 	<p>Get the latest information by joining the <a href="https://groups.google.com/forum/#!forum/pghtechfest">mailing list</a>. </p>
@@ -67,7 +67,7 @@ Pittsburgh TechFest is a one-day event where software development professionals 
 	</div>
 
 	</div>
-
+<div class="clear"></div>
 
 
 <!--
