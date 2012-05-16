@@ -15,8 +15,6 @@ date: 01/01/2012
     <div class="contact">Twitter: <a href="http://www.twitter.com/DocOnDev">@DocOnDev</a></div>
     <span class="contact"><a href="http://www.docondev.com/">http://www.docondev.com/</a></span>
     <span class="bio">Michael Norton (Doc) is an Agile Coach and a partner with <a href="http://www.leandog.com">LeanDog</a> living in Wadsworth, OH. Doc's experience covers a wide range of development topics. Doc declares expertise in no single language or methodology and is immediately suspicious of anyone who declares such expertise. A frequent speaker, Doc is passionate about helping others become better developers, working with teams to improve delivery, and Software Craftsmanship.</span>
-  </div>
-</div>
 
 <hr/>
 <h3 >9:40 AM - 10:40 AM</h3>
@@ -363,3 +361,5 @@ The next version of TFS improves upon the experience of creating a product backl
 </p>
 <h4 >Room 9</h4>
 <hr/>
+  </div>
+</div>

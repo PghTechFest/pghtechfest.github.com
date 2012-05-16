@@ -8,9 +8,6 @@ date: 01/01/2012
 {% include JB/setup %}
 
 
-<div class="clear">
-  <img src="http://a0.twimg.com/profile_images/1358796499/doc_at_sandcastle_style_reasonably_small.jpg" alt="Michael &quot;Doc&quot; Norton" style="float: left" />
-  <div  style="float: right; width: 600px">
 <h3 id="michaeldocnorton">Michael "Doc" Norton</h3>
 <p >Michael Norton (Doc) is an Agile Coach and a partner with LeanDog living in Wadsworth, OH. Doc's experience covers a wide range of development topics. Doc declares expertise in no single language or methodology and is immediately suspicious of anyone who declares such expertise. A frequent speaker, Doc is passionate about helping others become better developers, working with teams to improve delivery, and Software Craftsmanship.</p>
 <p >Blog/Website: <a href="http://www.docondev.com/">http://www.docondev.com/</a></p>
@@ -230,6 +227,4 @@ tarting with Cold Fusion, ASP and VB6.  Brian moved into .NET as part of the ear
 </p>
 <p >Blog/Website: <a href="brian.minisi.net">brian.minisi.net</a></p>
 <p >Twitter: <a href="http://twitter.com/brianminisi">@brianminisi</a></p>
-<hr/>
-  </div>
-</div>
+<hr/>  
