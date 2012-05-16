@@ -357,5 +357,3 @@ The next version of TFS improves upon the experience of creating a product backl
 </p>
 <h4 >Room 9</h4>
 <hr/>
-  </div>
-</div>
