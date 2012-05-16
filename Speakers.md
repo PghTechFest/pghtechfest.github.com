@@ -203,7 +203,7 @@ Glen Wirth is an Integration Specialist at Summa Technologies where he leads the
 <p >Twitter: <a href="http://twitter.com/adrianwright">@adrianwright</a></p>
 <hr/>
 <h3 id="brianminisi">Brian Minisi</h3>
-<p >Brian Minisi has been developing software for 15 years, starting with Cold Fusion, ASP and VB6.  Brian moved into .NET as part of the early adopters program and has delivered a wide variety of web sites and applications since.  Other areas of concentration include Business Intelligence, SQL Server, and ALM solutions using Team Foundation Server.  Brian is a Software Architect for CEI America (www.ceiamerica.com), a Microsoft Gold Partner.  As a current Microsoft ALM Ranger, Brian participates in delivering out-of-band solutions for Visual Studio and Team Foundation Server.
+<p >Brian Minisi has been developing software for 15 years, starting with Cold Fusion, ASP and VB6. Brian moved into .NET as part of the early adopters program and has delivered a wide variety of web sites and applications since. Other areas of concentration include Business Intelligence, SQL Server, and ALM solutions using Team Foundation Server. Brian is a Software Architect for CEI America (www.ceiamerica.com), a Microsoft Gold Partner. As a current Microsoft ALM Ranger, Brian participates in delivering out-of-band solutions for Visual Studio and Team Foundation Server.
 </p>
 <p >Blog/Website: <a href="brian.minisi.net">brian.minisi.net</a></p>
 <p >Twitter: <a href="http://twitter.com/brianminisi">@brianminisi</a></p>
