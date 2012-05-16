@@ -7,6 +7,8 @@ date: 01/01/2012
 ---
 {% include JB/setup %}
 
+<h5 align="center"><a href="assets/PghTechFest2012ScheduleMatrix.pdf">Printable Schedule</a></h5>
+
 <h3 >9:00 AM - 9:30 AM</h3>
 <h3 >Keynote</h3>
 <h4 ><a href="Speakers.html#michaeldocnorton">Michael "Doc" Norton</a></h4>

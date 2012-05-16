@@ -7,8 +7,6 @@ date: 01/01/2012
 ---
 {% include JB/setup %}
 
-<h5><a href="assets/PghTechFest2012ScheduleMatrix.pdf">Printable Schedule</a></h5>
-
 <h3 id="michaeldocnorton">Michael "Doc" Norton</h3>
 <p >Michael Norton (Doc) is an Agile Coach and a partner with LeanDog living in Wadsworth, OH. Doc's experience covers a wide range of development topics. Doc declares expertise in no single language or methodology and is immediately suspicious of anyone who declares such expertise. A frequent speaker, Doc is passionate about helping others become better developers, working with teams to improve delivery, and Software Craftsmanship.</p>
 <p >Blog/Website: <a href="http://www.docondev.com/">http://www.docondev.com/</a></p>
