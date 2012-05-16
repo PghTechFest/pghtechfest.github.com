@@ -133,7 +133,7 @@ In my previous life, I was a Machine Translation and Natural Language Processing
 <p >Twitter: <a href="http://twitter.com/irwinhurst">@irwinhurst</a></p>
 <hr/>
 <h3 id="chadwhitacre">Chad Whitacre</h3>
-<p >brb</p>
+<p >Chad Whitacre is a developer working at <a href="http://www.yougov.com/">YouGov</a> on their survey platform. He is active in the Python community and is the author of the <a href="http://aspen.io/">Aspen web framework</a>, <a href="http://www.whit537.org/mongs/">Mongs database browser</a>, <a href="http://code.google.com/p/gheat/">Gheat map tile server</a>, and <a href="https://github.com/whit537/assertEquals">assertEquals testing interface</a> (formerly Testosterone).</p>
 <p >Blog/Website: <a href="http://www.whit537.org/mongs/">http://www.whit537.org/mongs/</a></p>
 <p >Twitter: <a href="http://twitter.com/whit537">@whit537</a></p>
 <hr/>
