@@ -60,7 +60,7 @@ This talk can be targeted at either nodejs, or jQuery, or a hybrid of both. jQue
 <hr/>
 <h3 >3D Scanning with the Kinect</h3>
 <h4 ><a href="Speakers.html#jeremyherrman">Jeremy Herrman</a></h4>
-<p ></p>
+<p >3D scanners are amazing devices that serve as a core part of futuristic technologies like self driving cars and autonomous robots. The first consumer 3D scanner - the Xbox Kinect - is already in over 18 million homes. Learn how to unleash the incredible 3D scanning capabilities of the Kinect with free and open source software, and share these scanned scenes online with WebGL and Node.js.</p>
 <h4 >Room 8</h4>
 <hr/>
 <h3 >Building JVM Compilers with JRuby</h3>
@@ -71,7 +71,7 @@ This talk can be targeted at either nodejs, or jQuery, or a hybrid of both. jQue
 <h3 >10:50 AM - 12:05 PM</h3>
 <h3 >Intro to Functional Programming using Scala</h3>
 <h4 ><a href="Speakers.html#joshsuereth">Josh Suereth</a></h4>
-<p ></p>
+<p >This talk begins the path to functional programming, demonstrating how to avoid side-effects, compose functions and a few design patterns in functional programming. In particular: Basic definition of Functional Programming, Removing side-effects from your programs, Basic design patterns in Functional Programming (Monads, Applicative Functors, Zippers)</p>
 <h4 >Room 1</h4>
 <hr/>
 <h3 >Creating Your Own Software Company</h3>
