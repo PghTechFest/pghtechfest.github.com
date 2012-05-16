@@ -66,11 +66,7 @@ processing tools.
 <p >Twitter: <a href="http://twitter.com/jsuereth">@jsuereth</a></p>
 <hr/>
 <h3 id="kendallmiller">Kendall Miller</h3>
-<p >Kendall Miller is one of the founding partners of Gibraltar Software, an ISV that develops & markets applications for .NET developers used by customers around the world from individual consultants through Fortune 100 companies and governments.
-
-Before starting Gibraltar Software, Kendall worked for multiple startups from beginning through profitability.
-
-Kendall has a B.S in Computer Engineering from the University of Illinois, Urbana-Champaign.</p>
+<p >Kendall Miller is one of the founding partners of Gibraltar Software, an ISV that develops & markets applications for .NET developers used by customers around the world from individual consultants through Fortune 100 companies and governments. Before starting Gibraltar Software, Kendall worked for multiple startups from beginning through profitability. Kendall has a B.S in Computer Engineering from the University of Illinois, Urbana-Champaign.</p>
 <p >Blog/Website: <a href="http://rocksolid.gibraltarsoftware.com">http://rocksolid.gibraltarsoftware.com</a></p>
 <p >Twitter: <a href="http://twitter.com/kendallmiller">@kendallmiller</a></p>
 <hr/>
@@ -87,12 +83,9 @@ In my previous life, I was a Machine Translation and Natural Language Processing
 <p >Twitter: <a href="http://twitter.com/quicola">@quicola</a></p>
 <hr/>
 <h3 id="benjaminbykowski">Benjamin Bykowski</h3>
-<p >Benjamin Bykowski is VP of Interactive & Technology for Falls Digital and has more than 15 years’ experience in both technology and marketing. In his role, Ben applies his education and knowledge in computer science and business administration with his technical and strategic skills to consult and direct client engagements. Ben's knowledge and expertise benefit Falls Digital clients in the areas of information architecture and design, emerging technologies, Web and mobile development, industry trends, and client consultancy.  
-
-Ben is a Microsoft Certified Professional and is a member of the Information Architecture Institute (IAI) and the Interaction Design Association (IxDA). He has been a frequent speaker at local and regional marketing and Web events with organizations including NEOSA and The Web Association. His work has won several industry awards including multiple Site of the Year awards for innovative technology implementation and design.
-
-Prior to joining Falls Digital, Ben lead a team of information architects, Web developers, and technology professionals in creating world class user experiences on the Web through the use of leading-edge technology applied to well-planned architectures grounded in usability and user interface best practices. 
-
+<p >Benjamin Bykowski is VP of Interactive & Technology for Falls Digital and has more than 15 years' experience in both technology and marketing. In his role, Ben applies his education and knowledge in computer science and business administration with his technical and strategic skills to consult and direct client engagements. Ben's knowledge and expertise benefit Falls Digital clients in the areas of information architecture and design, emerging technologies, Web and mobile development, industry trends, and client consultancy.  <br/>
+Ben is a Microsoft Certified Professional and is a member of the Information Architecture Institute (IAI) and the Interaction Design Association (IxDA). He has been a frequent speaker at local and regional marketing and Web events with organizations including NEOSA and The Web Association. His work has won several industry awards including multiple Site of the Year awards for innovative technology implementation and design.<br/>
+Prior to joining Falls Digital, Ben lead a team of information architects, Web developers, and technology professionals in creating world class user experiences on the Web through the use of leading-edge technology applied to well-planned architectures grounded in usability and user interface best practices. <br/>
 Off the grid, Ben is the married father of three boys and is a civically engaged member of his local and regional community. He enjoys sailing, snowboarding, the outdoors, traveling, reading, and is a practiced chef and DJ.</p>
 <p >Blog/Website: <a href="w3rdofmouth.com">w3rdofmouth.com</a></p>
 <p >Twitter: <a href="http://twitter.com/Sirius_B">@Sirius_B</a></p>
@@ -149,7 +142,7 @@ Off the grid, Ben is the married father of three boys and is a civically engaged
 <p >Twitter: <a href="http://twitter.com/whit537">@whit537</a></p>
 <hr/>
 <h3 id="adamkalnas">Adam Kalnas</h3>
-<p >Adam is a Software Automation Developer at Omnyx.  He has a background in healthcare related software development.  He's passionate about crafting stable uncomplex code with high automated test coverage.  He enjoys eliminating or automating painful processes, and all things agile.  Adam’s interests and hobbies include disc golfing, gaming (computer and board), as well as home brewing meads and wines.</p>
+<p >Adam is a Software Automation Developer at Omnyx.  He has a background in healthcare related software development.  He's passionate about crafting stable uncomplex code with high automated test coverage.  He enjoys eliminating or automating painful processes, and all things agile.  Adam's interests and hobbies include disc golfing, gaming (computer and board), as well as home brewing meads and wines.</p>
 <p >Blog/Website: <a href=""></a></p>
 <p >Twitter: <a href="http://twitter.com/">@</a></p>
 <hr/>
@@ -159,7 +152,7 @@ Off the grid, Ben is the married father of three boys and is a civically engaged
 <p >Twitter: <a href="http://twitter.com/joelcochran">@joelcochran</a></p>
 <hr/>
 <h3 id="johnvpetersen">John V. Petersen</h3>
-<p >ohn Petersen has been developing software for 20 years, starting with dBase, Clipper and FoxBase + thereafter, migrating to FoxPro and Visual FoxPro and Visual Basic. Other areas of concentration include Oracle and SQL Server - versions 6-2008. John is the Philadelphia Microsoft Practice Director for CEI America (www.ceiamerica.com), a Microsoft Gold Partner. From 1995 to 2001, he was a Microsoft Visual FoxPro MVP. Today, his emphasis is on ASP MVC .NET applications. He is a current Microsoft ASP .NET MVP. In 1999, he wrote the definitive whitepaper on ADO for VFP Developers. In 2002, he wrote the Absolute Beginner’s Guide to Databases for Que Publishing. John was a co-author of Visual FoxPro Enterprise Development from Prima Publishing with Rod Paddock, Ron Talmadge and Eric Ranft. He was also a co-author of Visual Basic Web Development from Prima Publishing with Rod Paddock and Richard Campbell. In 2004, John graduated from the Rutgers University School of Law with a Juris Doctor Degree. He passed the Pennsylvania and New Jersey Bar exams and was in private practice for several years.</p>
+<p >ohn Petersen has been developing software for 20 years, starting with dBase, Clipper and FoxBase + thereafter, migrating to FoxPro and Visual FoxPro and Visual Basic. Other areas of concentration include Oracle and SQL Server - versions 6-2008. John is the Philadelphia Microsoft Practice Director for CEI America (www.ceiamerica.com), a Microsoft Gold Partner. From 1995 to 2001, he was a Microsoft Visual FoxPro MVP. Today, his emphasis is on ASP MVC .NET applications. He is a current Microsoft ASP .NET MVP. In 1999, he wrote the definitive whitepaper on ADO for VFP Developers. In 2002, he wrote the Absolute Beginner's Guide to Databases for Que Publishing. John was a co-author of Visual FoxPro Enterprise Development from Prima Publishing with Rod Paddock, Ron Talmadge and Eric Ranft. He was also a co-author of Visual Basic Web Development from Prima Publishing with Rod Paddock and Richard Campbell. In 2004, John graduated from the Rutgers University School of Law with a Juris Doctor Degree. He passed the Pennsylvania and New Jersey Bar exams and was in private practice for several years.</p>
 <p >Blog/Website: <a href="codebetter.com/johnvpetersen">codebetter.com/johnvpetersen</a></p>
 <p >Twitter: <a href="http://twitter.com/johnvpetersen">@johnvpetersen</a></p>
 <hr/>
@@ -169,20 +162,19 @@ Off the grid, Ben is the married father of three boys and is a civically engaged
 <p >Twitter: <a href="http://twitter.com/">@</a></p>
 <hr/>
 <h3 id="danilodiaz">Danilo Diaz</h3>
-<p >Dani Diaz (@DaniDiaz), is a Microsoft Developer Evangelist where he helps developers understand Microsoft’s product offerings and strategy. His main focus area is Windows Phone development. Prior to Microsoft, he lead a team of mobile developers for a large consulting company in Philadelphia. He is active in the Philly geek scene and plays around with many different technologies in his spare time.</p>
+<p >Dani Diaz (@DaniDiaz), is a Microsoft Developer Evangelist where he helps developers understand Microsoft's product offerings and strategy. His main focus area is Windows Phone development. Prior to Microsoft, he lead a team of mobile developers for a large consulting company in Philadelphia. He is active in the Philly geek scene and plays around with many different technologies in his spare time.</p>
 <p >Blog/Website: <a href="Smallandmighty.net">Smallandmighty.net</a></p>
 <p >Twitter: <a href="http://twitter.com/DaniDiaz">@DaniDiaz</a></p>
 <hr/>
 <h3 id="jeremyjarrell">Jeremy Jarrell</h3>
-<p >Jeremy Jarrell is a professional software developer specializing in commercial application development for the enterprise space.  He is heavily involved in the local developer community both as a regular presenter throughout the Pittsburgh and Philadelphia regions as well as an author whose articles have appeared on sites such as Simple-Talk.com and DZone.com.
-
+<p >Jeremy Jarrell is a professional software developer specializing in commercial application development for the enterprise space.  He is heavily involved in the local developer community both as a regular presenter throughout the Pittsburgh and Philadelphia regions as well as an author whose articles have appeared on sites such as Simple-Talk.com and DZone.com.<br/>
 He is currently the Software Development Team Lead at Matrix Solutions of Pittsburgh, PA, the leading provider of strategic account analysis and CRM software to the media industry.
 </p>
 <p >Blog/Website: <a href="www.jeremyjarrell.org">www.jeremyjarrell.org</a></p>
 <p >Twitter: <a href="http://twitter.com/jeremyjarrell">@jeremyjarrell</a></p>
 <hr/>
 <h3 id="joelmason">Joel Mason</h3>
-<p >Joel Mason is an aspiring software craftsman currently working in the healthcare arena as a Senior Software Developer at McKesson Automation.  He also has had the opportunity to teach Software Engineering at Geneva College for the past couple of years.  Joel embraces agile methods to help bring about high quality software that solves customers’ problems.  Some of Joel’s current interests in development are Behavior Driven Development, test automation and building distributed systems.</p>
+<p >Joel Mason is an aspiring software craftsman currently working in the healthcare arena as a Senior Software Developer at McKesson Automation.  He also has had the opportunity to teach Software Engineering at Geneva College for the past couple of years.  Joel embraces agile methods to help bring about high quality software that solves customers' problems.  Some of Joel's current interests in development are Behavior Driven Development, test automation and building distributed systems.</p>
 <p >Blog/Website: <a href=""></a></p>
 <p >Twitter: <a href="http://twitter.com/jamason05">@jamason05</a></p>
 <hr/>
@@ -192,8 +184,7 @@ He is currently the Software Development Team Lead at Matrix Solutions of Pittsb
 <p >Twitter: <a href="http://twitter.com/steveklabnik">@steveklabnik</a></p>
 <hr/>
 <h3 id="jayharris">Jay Harris</h3>
-<p >Jay is a code wrangler, software consultant, and president of Arana Software. He has been developing on the web for over 15 years, since the Blink tag lured him away from Visual Basic 3 in 1995. With a career focus on user experience, he has a passion for practices that improve quality and usability, and is an expert in continuous integration and in performance analysis and optimization. Jay is also an active contributor and speaker in the developer community, a Microsoft MVP in C#, ASPInsider, INETA Mentor, and an organizer of many conferences and user groups in the Ann Arbor area.
-
+<p >Jay is a code wrangler, software consultant, and president of Arana Software. He has been developing on the web for over 15 years, since the Blink tag lured him away from Visual Basic 3 in 1995. With a career focus on user experience, he has a passion for practices that improve quality and usability, and is an expert in continuous integration and in performance analysis and optimization. Jay is also an active contributor and speaker in the developer community, a Microsoft MVP in C#, ASPInsider, INETA Mentor, and an organizer of many conferences and user groups in the Ann Arbor area.<br/>
 Originally from Rochester, New York, he and his wife, Amy, have lived in Michigan since 2003. They like Michigan, but still consider themselves tourists, and probably always will.</p>
 <p >Blog/Website: <a href="http://www.cptloadtest.com">http://www.cptloadtest.com</a></p>
 <p >Twitter: <a href="http://twitter.com/jayharris">@jayharris</a></p>
@@ -209,8 +200,7 @@ Originally from Rochester, New York, he and his wife, Amy, have lived in Michiga
 <p >Twitter: <a href="http://twitter.com/jagostoni">@jagostoni</a></p>
 <hr/>
 <h3 id="adrianwrightandglenwirth">Adrian Wright and Glen Wirth</h3>
-<p >Adrian Wright is a software developer with 7 years development experience in .NET and more recently in integration work using IBM products.  He has a variety of experience including .NET web applications, multi-tenant highly available systems, SOAP-based integrations, message queuing, and web services, and has worked in the healthcare, defense, retail, and education industries.
-
+<p >Adrian Wright is a software developer with 7 years development experience in .NET and more recently in integration work using IBM products.  He has a variety of experience including .NET web applications, multi-tenant highly available systems, SOAP-based integrations, message queuing, and web services, and has worked in the healthcare, defense, retail, and education industries.<br/>
 Glen Wirth is an Integration Specialist at Summa Technologies where he leads the design and implementation of various integration products.  He has over 15 years of experience in working with transaction-based systems in a number of industries which include manufacturing, distribution, financial services and health care.  His technical  experience is mainly with the .NET based technologies, but also has experience with IBM, Oracle and SAP products.</p>
 <p >Blog/Website: <a href=""></a></p>
 <p >Twitter: <a href="http://twitter.com/adrianwright">@adrianwright</a></p>
