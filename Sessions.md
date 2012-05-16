@@ -195,7 +195,7 @@ Continuous Delivery is focused on automating processes so your team can release 
 <hr/>
 <h3 >Frictionless Web Development with Aspen</h3>
 <h4 ><a href="Speakers.html#chadwhitacre">Chad Whitacre</a></h4>
-<p >The Aspen web framework combines the best of PHP, MVC and OO patterns of web development. It scales with zero friction from putting a single file on the network to building fully dynamic web apps with templating, AJAX, and web sockets. It's satisfying for both beginners and seasoned developers, for teams large and small. This talk will introduce the framework by example. <a href="http://aspen.io/">Aspen web framework</a></p>
+<p >The <a href="http://aspen.io/">Aspen web framework</a> combines the best of PHP, MVC and OO patterns of web development. It scales with zero friction from putting a single file on the network to building fully dynamic web apps with templating, AJAX, and web sockets. It's satisfying for both beginners and seasoned developers, for teams large and small. This talk will introduce the framework by example.</p>
 <h4 >Room 2</h4>
 <hr/>
 <h3 >Javascript - Only Three Bad Parts</h3>
