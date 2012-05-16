@@ -198,14 +198,14 @@ Continuous Delivery is focused on automating processes so your team can release 
 <hr/>
 <h3 >Javascript - Only Three Bad Parts</h3>
 <h4 ><a href="Speakers.html#johnkpaul">John K. Paul</a></h4>
-<p >Douglas Crockford's book “Javascript: The Good Parts,” is one of the best selling javascript books of all time and is only 176 pages long.  For most developers,  there's an tacit belief that the rest of Javascript falls under “bad.”  There are websites dedicated to these list of language mis-features and anti-patterns, and dozens of blog posts about how to avoid the “bad” in your own code.
+<p >Douglas Crockford's book "Javascript: The Good Parts," is one of the best selling javascript books of all time and is only 176 pages long.  For most developers,  there's an tacit belief that the rest of Javascript falls under "bad."  There are websites dedicated to these list of language mis-features and anti-patterns, and dozens of blog posts about how to avoid the "bad" in your own code.
 
-I don't think that these most of these things are actually “bad”. In their day to day, developers don't need to worry about all of these smaller issues .Chances are, a javascript developer has encountered these difficult issues, learned the solution, and then immediately absorbed the concepts.
+I don't think that these most of these things are actually "bad". In their day to day, developers don't need to worry about all of these smaller issues .Chances are, a javascript developer has encountered these difficult issues, learned the solution, and then immediately absorbed the concepts.
 
-I'm going to explain to you, the real three “bad” parts of the language. These are the three javascript specific features that are the most likely to trip up a javascript developer.  Once you innately understand these three issues, you will become significantly more productive in javascript, and will be a lot less confused when reading through large javascript code bases.
+I'm going to explain to you, the real three "bad" parts of the language. These are the three javascript specific features that are the most likely to trip up a javascript developer.  Once you innately understand these three issues, you will become significantly more productive in javascript, and will be a lot less confused when reading through large javascript code bases.
 
 I'll be walking you through three concepts within javascript semantics:
-1) What on earth does “this” mean?
+1) What on earth does "this" mean?
 2) How does prototypical inheritance work?
 3) What's the difference between a function expression and function declaration, and why do I care?</p>
 <h4 >Room 3</h4>
@@ -273,7 +273,7 @@ In this talk, Steve will explain how to design your APIs so that they truly embr
 <hr/>
 <h3 >Going for Speed: Testing for Performance</h3>
 <h4 ><a href="Speakers.html#jayharris">Jay Harris</a></h4>
-<p >Unit Testing has settled into the mainstream. As developers, we write code that checks code, ensuring that the outcome matches some expected result. But, are we really? As end-users (which includes each one of us from time to time), when we ask a question, we don't just expect our answer to be right, we expect it to be right now. So as developers, why are we only validating for accuracy? Why aren't we going for speed? During this session we'll discuss meeting the performance needs of an application, including developing a performance specification, measuring application performance from stand-alone testing through unit testing, using tools ranging from Team Foundation Server to the command line, and asserting on these measurements to ensure that all expectations are met. Your application does "right." Let's focus on "right now.”</p>
+<p >Unit Testing has settled into the mainstream. As developers, we write code that checks code, ensuring that the outcome matches some expected result. But, are we really? As end-users (which includes each one of us from time to time), when we ask a question, we don't just expect our answer to be right, we expect it to be right now. So as developers, why are we only validating for accuracy? Why aren't we going for speed? During this session we'll discuss meeting the performance needs of an application, including developing a performance specification, measuring application performance from stand-alone testing through unit testing, using tools ranging from Team Foundation Server to the command line, and asserting on these measurements to ensure that all expectations are met. Your application does "right." Let's focus on "right now."</p>
 <h4 >Room 2</h4>
 <hr/>
 <h3 >Introduction to KnockoutJS</h3>
@@ -303,24 +303,6 @@ In this session we'll look at what's been added to jQuery in the last couple yea
 <h3 >.NET Integration with WebSphere</h3>
 <h4 ><a href="Speakers.html#adrianwrightandglenwirth">Adrian Wright and Glen Wirth</a></h4>
 <p >What?  WebSphere integrates with .NET?  We'll take a look new features of WebSphere Message Broker and WebSphere MQ that allow for direct .NET integration.  Message Broker's .NET Compute Nodes are a powerful extension point that allow extensibility using any .NET language.  This is a great feature for .NET shops looking to integrate on the enterprise level.  We'll also look at the WCF channel for MQ, a custom channel that allows .NET developers to leverage the power of WCF with Websphere MQ.  Instead of adding a middle-man to translate between MSMQ and MQ, use the WCF channel to write directly to MQ.</p>
-<h4 >Room 7</h4>
-<hr/>
-<h3 >JavaScript Testing</h3>
-<h4 ><a href="Speakers.html#johnvpetersen">John V. Petersen</a></h4>
-<p >One of the most important tasks in software development is having automated unit tests. For code to be unit testable, it means that your code adheres to SOLID principles (Single Responsibility, Dependency Inversion, etc). Often, JavaScript is cluttered and disorganized, and therefore, is not testable. In this session, John will cover, through practical examples, how to write solid and testable code. John will also cover some practical examples of how to re-factor JavaScript code that is not unit testable into a foundation that is unit testable - and thus is more maintainable. </p>
-<h4 >Room 8</h4>
-<hr/>
-<h3 >What's New in Team Foundation Server 11</h3>
-<h4 ><a href="Speakers.html#brianminisi">Brian Minisi</a></h4>
-<p >Team Foundation Server (TFS) is an enterprise tool for managing your application lifecycle from requirements through code design, implementation, testing and deployment.  The ability to trace requirements, tasks, defects, and test cases to checked-in code improves tracking to more quickly and reliably deliver projects.
-
-The next version of TFS improves upon the experience of creating a product backlog, planning an iteration, and tracking the progress of a Sprint.  This session will walk through a lifecycle using the Agile methodology to demonstrate many of the features available in the next version of Visual Studio and TFS.  This includes the new Team Explorer, Capacity Planning, Boards, Storyboards, Source Control, and an overview of testing using the Microsoft Test Manager tool.
-</p>
-<h4 >Room 9</h4>
-<hr/>
-</body>
-</html>
- We'll also look at the WCF channel for MQ, a custom channel that allows .NET developers to leverage the power of WCF with Websphere MQ.  Instead of adding a middle-man to translate between MSMQ and MQ, use the WCF channel to write directly to MQ.</p>
 <h4 >Room 7</h4>
 <hr/>
 <h3 >JavaScript Testing</h3>
