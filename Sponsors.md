@@ -16,12 +16,12 @@ date: 02/02/2012
 <p>DiscountASP.NET</p>
 <br><br>
 <h3>Silver Sponsors</h3>
-<p>Microsoft</p>
-<p>Telerik</p> 
-<p>Ciber</p> 
-<p>Gentech</p>
 <p>10gen</p>
 <p>CEI</p>
+<p>Ciber</p> 
+<p>Gentech</p>
+<p>Microsoft</p>
+<p>Telerik</p> 
  <!-- <a href="http://www.microsoft.com/"><img src="/assets/themes/pghtechfest/images/Microsoft_Logo_Web.png" alt="Microsoft" width="250" /></a> -->
 </div>
 
