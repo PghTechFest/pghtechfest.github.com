@@ -30,6 +30,7 @@ Pittsburgh TechFest is a one-day event where software development professionals 
 
 	<ul>
 		<li><span class="topic">.NET</span><a href="http://pghdotnet.org/">PghDotNet</a></li>
+		<li><span class="topic">Cocoa & iOS</span><a href="http://www.cocoaheads.org/us/PittsburghPennsylvania/index.html">Cocoaheads Pittsburgh</a></li>
 		<li><span class="topic">Java</span><a href="http://pittjug.java.net/">PittJUG</a></li>
 		<li><span class="topic">SQL Server</span><a href="http://pitssug.sqlpass.org/Home.aspx">Pittsburgh SQL Server Users Group</a></li>
 		<li><span class="topic">PHP</span><a href="http://www.meetup.com/Pittsburgh-PHP-Developers-Group/">Pittsburgh PHP Developers Group</a></li>
