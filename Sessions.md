@@ -299,7 +299,7 @@ In this session we'll look at what's been added to jQuery in the last couple yea
 <hr/>
 <h3 >iOS Development Practices - Avoid the Bloat</h3>
 <h4 ><a href="Speakers.html#jasonagostoni">Jason Agostoni</a></h4>
-<p >Developing mobile applications is no excuse for abandoning the best pracitces Developers and Architects have worked so hard to establish.  I'll walk through one of the more common anti-patterns in iOS development: the Big Ball of Mud and cover a couple techniques for avoiding it.</p>
+<p >Developing mobile applications is no excuse for abandoning the best practices Developers and Architects have worked so hard to establish.  I'll walk through one of the more common anti-patterns in iOS development: the Big Ball of Mud and cover a couple techniques for avoiding it.</p>
 <h4 >Room 6</h4>
 <hr/>
 <h3 >.NET Integration with WebSphere</h3>
