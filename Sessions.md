@@ -131,9 +131,9 @@ The concepts are explained as he builds a functional game from scratch. Steven w
 <p >SignalR is an asynchronous signaling library for ASP.NET. It's designed to help you build real-time web applications without a lot of hassle  In the past, developers would have to wire up "real-time" applications as a series of polls to a webserver, waiting for it to receive data back that was useful. This approach usually cost more in bandwidth than we wanted it to. SignalR simplifies this process, and makes it more useful for the web developer.  Although the server portion is .NET, the client is pure JavaScript, and can easily be incorporated into a web application of any flavor.  In this presentation, Rich will guide you through implementing SignalR into your applications, and how you can take advantage of everything it has to offer. </p>
 <h4 >Room 8</h4>
 <hr/>
-<h3 >Constructing a Next Generation Open Source Web Querying System with Node.js and ql.io</h3>
-<h4 ><a href="Speakers.html#jonathanleblanc">Jonathan LeBlanc</a></h4>
-<p >In most modern web and mobile applications, much of the raw data source backbone comes from the mashing up of HTTP based APIs from multiple sites and services, both internally and externally. These sources are used for everything from localization to personalization and product querying. As more services are added to provide this functionality, the number of network roundtrips increases along with bandwidth consumption, and due to interdependency problems and inconsistent APIs, product reliability suffers.</p>
+<h3 >JavaScript Testing</h3>
+<h4 ><a href="Speakers.html#johnvpetersen">John V. Petersen</a></h4>
+<p >One of the most important tasks in software development is having automated unit tests. For code to be unit testable, it means that your code adheres to SOLID principles (Single Responsibility, Dependency Inversion, etc). Often, JavaScript is cluttered and disorganized, and therefore, is not testable. In this session, John will cover, through practical examples, how to write solid and testable code. John will also cover some practical examples of how to re-factor JavaScript code that is not unit testable into a foundation that is unit testable - and thus is more maintainable. </p>
 <h4 >Room 9</h4>
 <hr/>
 <h3 >1:00 PM - 1:30 PM</h3>
@@ -307,9 +307,9 @@ In this session we'll look at what's been added to jQuery in the last couple yea
 <p >What?  WebSphere integrates with .NET?  We'll take a look new features of WebSphere Message Broker and WebSphere MQ that allow for direct .NET integration.  Message Broker's .NET Compute Nodes are a powerful extension point that allow extensibility using any .NET language.  This is a great feature for .NET shops looking to integrate on the enterprise level.  We'll also look at the WCF channel for MQ, a custom channel that allows .NET developers to leverage the power of WCF with Websphere MQ.  Instead of adding a middle-man to translate between MSMQ and MQ, use the WCF channel to write directly to MQ.</p>
 <h4 >Room 7</h4>
 <hr/>
-<h3 >JavaScript Testing</h3>
-<h4 ><a href="Speakers.html#johnvpetersen">John V. Petersen</a></h4>
-<p >One of the most important tasks in software development is having automated unit tests. For code to be unit testable, it means that your code adheres to SOLID principles (Single Responsibility, Dependency Inversion, etc). Often, JavaScript is cluttered and disorganized, and therefore, is not testable. In this session, John will cover, through practical examples, how to write solid and testable code. John will also cover some practical examples of how to re-factor JavaScript code that is not unit testable into a foundation that is unit testable - and thus is more maintainable. </p>
+<h3 >Constructing a Next Generation Open Source Web Querying System with Node.js and ql.io</h3>
+<h4 ><a href="Speakers.html#jonathanleblanc">Jonathan LeBlanc</a></h4>
+<p >In most modern web and mobile applications, much of the raw data source backbone comes from the mashing up of HTTP based APIs from multiple sites and services, both internally and externally. These sources are used for everything from localization to personalization and product querying. As more services are added to provide this functionality, the number of network roundtrips increases along with bandwidth consumption, and due to interdependency problems and inconsistent APIs, product reliability suffers.</p>
 <h4 >Room 8</h4>
 <hr/>
 <h3 >What's New in Team Foundation Server 11</h3>
