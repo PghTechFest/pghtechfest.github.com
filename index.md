@@ -45,6 +45,22 @@ Pittsburgh TechFest is a one-day event where software development professionals 
 	</ul>
 </div>
 
+<div class="sponsors sponsorspage clear">
+  <h4>Premiere Sponsor</h4>
+<a href="http://www.componentone.com/"><img src="/assets/themes/pghtechfest/images/componentone_small.png" alt="Component One" /></a> 
+<br><br>
+<h4>Gold Sponsor</h4>
+<a href="http://www.discountasp.net/"><img src="/assets/themes/pghtechfest/images/daspnet_small.gif" alt="Discount ASP.Net" /></a> 
+<br><br>
+<h4>Silver Sponsors</h4>
+<a href="http://www.10gen.com/"><img src="/assets/themes/pghtechfest/images/10gen_small.jpg" alt="10gen" /></a>
+<a href="http://www.cei.com/"><img src="/assets/themes/pghtechfest/images/cei_small.jpg" alt="CEI" /></a>
+<a href="http://www.ciber.com/"><img src="/assets/themes/pghtechfest/images/ciber_small.png" alt="Ciber" /></a>
+<a href="http://www.gentech.com/"><img src="/assets/themes/pghtechfest/images/gentech_small.jpg" alt="Gentech" /></a>
+<a href="http://www.microsoft.com/"><img src="/assets/themes/pghtechfest/images/microsoft_small.jpg" alt="Microsoft" /></a>
+<a href="http://www.Telerik.com/"><img src="/assets/themes/pghtechfest/images/telerik_small.gif" alt="Telerik" /></a>
+</div>
+
 <div class="help-out">
 	<h3>Want to help? Get involved.</h3>
 	<a name="help-out"></a>
