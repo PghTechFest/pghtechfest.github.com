@@ -9,20 +9,18 @@ date: 02/02/2012
 
 <div class="sponsors sponsorspage clear">
   <h3>Premiere Sponsor</h3>
-<p>ComponentOne</p>
-<!-- <a href="http://www.componentone.com/"><img src="/assets/themes/pghtechfest/images/componentone_logo_horizonal_black.png" alt="Component One" width="300" /></a> -->
+<a href="http://www.componentone.com/"><img src="/assets/themes/pghtechfest/images/componentone.png" alt="Component One" /></a> 
 <br><br>
 <h3>Gold Sponsor</h3>
-<p>DiscountASP.NET</p>
+<a href="http://www.discountasp.net/"><img src="/assets/themes/pghtechfest/images/daspnet.gif" alt="Discount ASP.Net" /></a> 
 <br><br>
 <h3>Silver Sponsors</h3>
-<p>10gen</p>
-<p>CEI</p>
-<p>Ciber</p> 
-<p>Gentech</p>
-<p>Microsoft</p>
-<p>Telerik</p> 
- <!-- <a href="http://www.microsoft.com/"><img src="/assets/themes/pghtechfest/images/Microsoft_Logo_Web.png" alt="Microsoft" width="250" /></a> -->
+<a href="http://www.10gen.com/"><img src="/assets/themes/pghtechfest/images/10gen.jpg" alt="10gen" /></a>
+<a href="http://www.cei.com/"><img src="/assets/themes/pghtechfest/images/cei.jpg" alt="CEI" /></a>
+<a href="http://www.ciber.com/"><img src="/assets/themes/pghtechfest/images/ciber.png" alt="Ciber" /></a>
+<a href="http://www.gentech.com/"><img src="/assets/themes/pghtechfest/images/gentech.jpg" alt="Gentech" /></a>
+<a href="http://www.microsoft.com/"><img src="/assets/themes/pghtechfest/images/microsoft.jpg" alt="Microsoft" /></a>
+<a href="http://www.Telerik.com/"><img src="/assets/themes/pghtechfest/images/telerik.gif" alt="Telerik" /></a>
 </div>
 
 ## If you are interested in sponsoring Pittsburgh TechFest...
