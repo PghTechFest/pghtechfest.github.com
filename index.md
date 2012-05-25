@@ -18,7 +18,7 @@ Pittsburgh TechFest is a one-day event where software development professionals 
 
 	<h4>How do I register?</h4>
 
-	<p><a href="/Registration.html">Registration</a> is now open!  For the low cost of $10, enjoy a full day of knowledgable speakers across a wide variety of topics.</p>
+	<p><a href="/Registration.html">Registration</a> is now open!  For the low cost of $10, enjoy a full day of knowledgable speakers across a wide variety of topics.  Also, includes free lunch!</p>
 </div>
 
 <div class="user-groups">
@@ -72,7 +72,7 @@ Pittsburgh TechFest is a one-day event where software development professionals 
 
 <div>
   <a href="http://www.componentone.com/"><img src="/assets/themes/pghtechfest/images/componentone_small.png" alt="Component One" /></a> <br><br>
-<a href="http://www.discountasp.net/"><img src="/assets/themes/pghtechfest/images/daspnet_small.gif" alt="Discount ASP.Net" /></a> 
+<a href="http://www.discountasp.net/"><img src="/assets/themes/pghtechfest/images/daspnet_small.gif" alt="Discount ASP.Net" /></a>
 <br><br>
 <a href="http://www.10gen.com/"><img src="/assets/themes/pghtechfest/images/10gen_small.jpg" alt="10gen" /></a>
 <a href="http://www.cei.com/"><img src="/assets/themes/pghtechfest/images/cei_small.jpg" alt="CEI" /></a>
