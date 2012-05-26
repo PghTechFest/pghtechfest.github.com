@@ -83,7 +83,7 @@ This talk can be targeted at either nodejs, or jQuery, or a hybrid of both. jQue
 <ul>
         <li>Picking the right product to build around</li>
         <li>Marketing in the Internet Age</li>
-        <li>What it looks like when you’re successful</li>
+        <li>What it looks like when you're successful</li>
 </ul>
 Presented by one of the founders of Gibraltar Software, we break down some of the commonly held myths around software products so you can learn from our mistakes and get a look into the reality behind the dream.</p>
 <h4 >Room 2</h4>
