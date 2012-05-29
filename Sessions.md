@@ -67,7 +67,8 @@ This talk can be targeted at either nodejs, or jQuery, or a hybrid of both. jQue
 <hr/>
 <h3 >Building JVM Compilers with JRuby</h3>
 <h4 ><a href="Speakers.html#christopherumbel">Christopher Umbel</a></h4>
-<p >These were the main developer pains that lead to the development of ql.io, an open source querying system built on top of Node.js. Using a SQL and JSON based language to declare API calls, interdependencies, forks and joins, filtering and projections, app developers are able to cut down the amount of effort required to integrate multiple APIs from hundreds of lines of code down to a few. Besides the language itself, ql.io can be deployed as a stand-alone server, allowing you to deploy it as an HTTP gateway between client apps and API servers to have ql.io process and condense the data to just the fields that the client needs.</p>
+<p>The Java ecosystem is a pragmatic one, but it's also important to remember to have fun while we expand our skills. JRuby, thanks to some very concise libraries like BiteScript and Parslet, makes it simple to peer into the inside of the JVM and develop languages for it. While this knowledge is practical developing languages targeting the JVM can also be a very fun and creative. In this talk we'll develop a simple proof of concept language that is syntactically like Lisp purely in JRuby while using some basic tools in the JDK to reverse engineer simple Java applications.</p>
+<p>The idea is to have fun visiting some of the nerdy roots of computer science, expand our knowledge of the tools we use daily and maybe introduce some up-and-coming/unfamiliar technologies.</p>
 <h4 >Room 313</h4>
 <hr/>
 <h3 >10:50 AM - 12:05 PM</h3>
@@ -78,7 +79,13 @@ This talk can be targeted at either nodejs, or jQuery, or a hybrid of both. jQue
 <hr/>
 <h3 >Creating Your Own Software Company</h3>
 <h4 ><a href="Speakers.html#kendallmiller">Kendall Miller</a></h4>
-<p >In this talk we will explore the underpinnings of ql.io and how Node.js powers this next generation system. We will look into how to query multiple HTTP API data sources simply and efficiently, and explore how the service can be deployed on your own systems to handle raw mashups of your own and external data, all while decreasing overall bandwidth usage, network roundtrips, and increasing product reliability.</p>
+<p>Creating your own software company seems easier than ever, but it takes a lot more than a good idea to make a business. Find out real world lessons about what it takes to create and market a software product as an Independent Software Vendor (ISV) including:
+<ul>
+        <li>Picking the right product to build around</li>
+        <li>Marketing in the Internet Age</li>
+        <li>What it looks like when you're successful</li>
+</ul>
+Presented by one of the founders of Gibraltar Software, we break down some of the commonly held myths around software products so you can learn from our mistakes and get a look into the reality behind the dream.</p>
 <h4 >Room 314</h4>
 <hr/>
 <h3 >Backbone.js with CoffeeScript or 'Wow, client side coding no longer sucks'</h3>
@@ -310,6 +317,8 @@ In this session we'll look at what's been added to jQuery in the last couple yea
 <h3 >Constructing a Next Generation Open Source Web Querying System with Node.js and ql.io</h3>
 <h4 ><a href="Speakers.html#jonathanleblanc">Jonathan LeBlanc</a></h4>
 <p >In most modern web and mobile applications, much of the raw data source backbone comes from the mashing up of HTTP based APIs from multiple sites and services, both internally and externally. These sources are used for everything from localization to personalization and product querying. As more services are added to provide this functionality, the number of network roundtrips increases along with bandwidth consumption, and due to interdependency problems and inconsistent APIs, product reliability suffers.</p>
+<p >These were the main developer pains that lead to the development of ql.io, an open source querying system built on top of Node.js. Using a SQL and JSON based language to declare API calls, interdependencies, forks and joins, filtering and projections, app developers are able to cut down the amount of effort required to integrate multiple APIs from hundreds of lines of code down to a few. Besides the language itself, ql.io can be deployed as a stand-alone server, allowing you to deploy it as an HTTP gateway between client apps and API servers to have ql.io process and condense the data to just the fields that the client needs.</p>
+<p >In this talk we will explore the underpinnings of ql.io and how Node.js powers this next generation system. We will look into how to query multiple HTTP API data sources simply and efficiently, and explore how the service can be deployed on your own systems to handle raw mashups of your own and external data, all while decreasing overall bandwidth usage, network roundtrips, and increasing product reliability.</p>
 <h4 >Room 312</h4>
 <hr/>
 <h3 >What's New in Team Foundation Server 11</h3>

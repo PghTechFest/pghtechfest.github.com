@@ -18,7 +18,7 @@ Pittsburgh TechFest is a one-day event where software development professionals 
 
 	<h4>How do I register?</h4>
 
-	<p><a href="/Registration.html">Registration</a> is now open!  For the low cost of $10, enjoy a full day of knowledgable speakers across a wide variety of topics.</p>
+	<p><a href="/Registration.html">Registration</a> is now open!  For the low cost of $10, enjoy a full day of knowledgable speakers across a wide variety of topics.  Also, includes free lunch!</p>
 </div>
 
 <div class="user-groups">
@@ -30,6 +30,7 @@ Pittsburgh TechFest is a one-day event where software development professionals 
 
 	<ul>
 		<li><span class="topic">.NET</span><a href="http://pghdotnet.org/">PghDotNet</a></li>
+		<li><span class="topic">Cocoa &amp; iOS</span><a href="http://www.cocoaheads.org/us/PittsburghPennsylvania/index.html">Cocoaheads Pittsburgh</a></li>
 		<li><span class="topic">Java</span><a href="http://pittjug.java.net/">PittJUG</a></li>
 		<li><span class="topic">SQL Server</span><a href="http://pitssug.sqlpass.org/Home.aspx">Pittsburgh SQL Server Users Group</a></li>
 		<li><span class="topic">PHP</span><a href="http://www.meetup.com/Pittsburgh-PHP-Developers-Group/">Pittsburgh PHP Developers Group</a></li>
@@ -43,6 +44,7 @@ Pittsburgh TechFest is a one-day event where software development professionals 
 		<li><span class="topic">Hadoop</span><a href="http://www.meetup.com/HUG-Pittsburgh/">Pittsburgh Hadoop</a></li>
 	</ul>
 </div>
+
 
 <div class="help-out">
 	<h3>Want to help? Get involved.</h3>
@@ -67,6 +69,21 @@ Pittsburgh TechFest is a one-day event where software development professionals 
 	</div>
 
 	</div>
+
+<div>
+  <a href="http://www.componentone.com/" target="_blank"><img src="/assets/themes/pghtechfest/images/componentone_small.png" alt="Component One" /></a> <br><br>
+<a href="http://www.discountasp.net/" target="_blank"><img src="/assets/themes/pghtechfest/images/daspnet_small.gif" alt="Discount ASP.Net" /></a>
+<br><br>
+<a href="http://www.10gen.com/" target="_blank"><img src="/assets/themes/pghtechfest/images/10gen_small.jpg" alt="10gen" /></a>
+<a href="http://www.cei.com/" target="_blank"><img src="/assets/themes/pghtechfest/images/cei_small.jpg" alt="CEI" /></a>
+<a href="http://www.ciber.com/" target="_blank"><img src="/assets/themes/pghtechfest/images/ciber_small.png" alt="Ciber" /></a>
+<br><br>
+<a href="http://www.gentech.com/"><img src="/assets/themes/pghtechfest/images/gentech_small.jpg" alt="Gentech" /></a>
+<a href="http://www.microsoft.com/" target="_blank"><img src="/assets/themes/pghtechfest/images/microsoft_small.jpg" alt="Microsoft" /></a>
+<a href="http://www.Telerik.com/" target="_blank"><img src="/assets/themes/pghtechfest/images/telerik_small.gif" alt="Telerik" /></a>
+<a href="http://www.SmithMicro.com/" target="_blank"><img src="/assets/themes/pghtechfest/images/SmithMicro_small.jpg" alt="Telerik" /></a>
+</div>
+
 <div class="clear"></div>
 
 
