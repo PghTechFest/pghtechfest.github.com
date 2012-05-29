@@ -81,6 +81,7 @@ Pittsburgh TechFest is a one-day event where software development professionals 
 <a href="http://www.gentech.com/"><img src="/assets/themes/pghtechfest/images/gentech_small.jpg" alt="Gentech" /></a>
 <a href="http://www.microsoft.com/" target="_blank"><img src="/assets/themes/pghtechfest/images/microsoft_small.jpg" alt="Microsoft" /></a>
 <a href="http://www.Telerik.com/" target="_blank"><img src="/assets/themes/pghtechfest/images/telerik_small.gif" alt="Telerik" /></a>
+<a href="http://www.red-gate.com/?utm_source=ug&utm_medium=uglogo&utm_content=pittsburgcodecamp&utm_campaign=redgate" target="_blank"><img src="/assets/themes/pghtechfest/images/redgate_small.png" alt="Smith Micro" /></a>
 <a href="http://www.SmithMicro.com/" target="_blank"><img src="/assets/themes/pghtechfest/images/SmithMicro_small.jpg" alt="Telerik" /></a>
 </div>
 
