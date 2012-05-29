@@ -75,7 +75,7 @@ Pittsburgh TechFest is a one-day event where software development professionals 
 <a href="http://www.discountasp.net/" target="_blank"><img src="/assets/themes/pghtechfest/images/daspnet_small.gif" alt="Discount ASP.Net" /></a>
 <br><br>
 <a href="http://www.10gen.com/" target="_blank"><img src="/assets/themes/pghtechfest/images/10gen_small.jpg" alt="10gen" /></a>
-<a href="http://www.cei.com/" target="_blank"><img src="/assets/themes/pghtechfest/images/cei_small.jpg" alt="CEI" /></a>
+<a href="http://www.ceiamerica.com/" target="_blank"><img src="/assets/themes/pghtechfest/images/cei_small.jpg" alt="CEI" /></a>
 <a href="http://www.ciber.com/" target="_blank"><img src="/assets/themes/pghtechfest/images/ciber_small.png" alt="Ciber" /></a>
 <br><br>
 <a href="http://www.gentech.com/"><img src="/assets/themes/pghtechfest/images/gentech_small.jpg" alt="Gentech" /></a>
