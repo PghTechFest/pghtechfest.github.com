@@ -77,8 +77,7 @@ Pittsburgh TechFest is a one-day event where software development professionals 
 <a href="http://www.10gen.com/" target="_blank"><img src="/assets/themes/pghtechfest/images/10gen_small.jpg" alt="10gen" /></a>
 <a href="http://www.ceiamerica.com/" target="_blank"><img src="/assets/themes/pghtechfest/images/cei_small.jpg" alt="CEI" /></a>
 <a href="http://www.ciber.com/" target="_blank"><img src="/assets/themes/pghtechfest/images/ciber_small.png" alt="Ciber" /></a>
-<br><br>
-<a href="http://www.gentech.com/"><img src="/assets/themes/pghtechfest/images/gentech_small.jpg" alt="Gentech" /></a>
+<a href="http://www.gentechpgh.com/"><img src="/assets/themes/pghtechfest/images/gentech_small.jpg" alt="Gentech" /></a><br><br>
 <a href="http://www.microsoft.com/" target="_blank"><img src="/assets/themes/pghtechfest/images/microsoft_small.jpg" alt="Microsoft" /></a>
 <a href="http://www.Telerik.com/" target="_blank"><img src="/assets/themes/pghtechfest/images/telerik_small.gif" alt="Telerik" /></a>
 <a href="http://www.red-gate.com/?utm_source=ug&utm_medium=uglogo&utm_content=pittsburgcodecamp&utm_campaign=redgate" target="_blank"><img src="/assets/themes/pghtechfest/images/redgate_small.png" alt="Smith Micro" /></a>
