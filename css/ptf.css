@@ -333,7 +333,7 @@ padding: 10px 5px 0px 0px;
 margin-bottom: 20px;
 }
 #nav ul {
-padding: 4px 0px 16px 4px;
+padding: 0px;
 }
 }
 
@@ -343,6 +343,8 @@ padding: 4px 0px 16px 4px;
 #nav li {
 font-size: 18px;
 padding: 5px 5px 5px 2px;
+border-bottom: solid white 1px;
+}
 }
 .highlight, .highlight-fixed {
 /*  background-color:#FFBF00;
