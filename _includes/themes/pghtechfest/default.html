@@ -1,62 +1,229 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
-    <meta name="author" content="{{ site.author.name }}">
 
-    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
-    <!--[if lt IE 9]>
-      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+<!-- paulirish.com/2008/conditional-css-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
 
-    <!-- Le styles -->
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,600italic,400,300|Allan:700' rel='stylesheet' type='text/css'>
-    <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
-    <script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script>
-    <!-- Le fav and touch icons -->
-  <!-- Update these with your own images
-    <link rel="shortcut icon" href="/assets/themes/pghtechfest/images/favicon.ico">
-    <link rel="apple-touch-icon" href="/assets/themes/pghtechfest/images/apple-touch-icon.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="/assets/themes/pghtechfest/images/apple-touch-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="/assets/themes/pghtechfest/images/apple-touch-icon-114x114.png">
-  -->
-  </head>
+<head>
+<meta charset="utf-8" />
 
-  <body>
-    <div class="navbar">
-      <div class="navbar-inner">
-        <div class="container"> <a href="/"><img src="/assets/themes/pghtechfest/images/pittsburghtechfest-vector.png" width="350" height="200" alt="Pittsburgh Tech Fest"></a>
-      <div class="info"> <span>June 9, 2012 <br>
-@ <br>
-La Roche College</span><a href="https://twitter.com/pghtechfest12" target="_blank"><img src="/assets/themes/pghtechfest/images/twitter.png" width="64" height="64" alt="twitter"></a><a href="http://linkd.in/Hkw1M5" target="_blank"><img src="/assets/themes/pghtechfest/images/linkedin.png" alt="linkedin" width="64" height="64" border="0"></a><a href="https://www.facebook.com/PghTechFest" target="_blank"><img src="/assets/themes/pghtechfest/images/facebook.png" width="64" height="64" alt="facebook"></a> </div>
+<!-- Set the viewport width to device width for mobile -->
+<meta name="viewport" content="width=device-width, initial-scale = 1.0, user-scalable=0" />
+<title>Pittsburgh Tech Fest 2012: Bridging Pittsburgh's Technology Communities</title>
+
+<!-- Included CSS Files -->
+<link rel="stylesheet" href="css/foundation.css">
+<link rel="stylesheet" href="css/app.css">
+<link rel="stylesheet" href="css/ptf.css">
+<script src="js/lib/foundation-ck.js"></script>
+
+<!--[if lt IE 9]>
+    <link rel="stylesheet" href="css/ie.css">
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+<!-- container -->
+<div class="container">
+  <div id="logo" class="row">
+    <div class="six columns"> <a href="index.html"><img src="images/pittsburghtechfest-vector.png" width="350" height="200" alt="Pittsburgh Tech Fest"></a> </div>
+    <div id="info" class="six columns">
+      <p>
+      <div>June 9, 2012 <br>
+        @ <br>
+        La Roche College</div>
+      <a href="https://twitter.com/pghtechfest12" target="_blank"><img src="images/twitter.png" width="64" height="64" alt="twitter"></a><a href="http://linkd.in/Hkw1M5" target="_blank"><img src="images/linkedin.png" alt="linkedin" width="64" height="64" border="0"></a><a href="https://www.facebook.com/PghTechFest" target="_blank"><img src="images/facebook.png" width="64" height="64" alt="facebook"></a>
     </div>
+  </div>
+  <div class="row">
+    <div class="twelve columns">
+      <div id="nav">
+        <ul class="mobile-menu">
+          <li><a href="Sessions.html">Sessions</a></li>
+          <li><a href="sponsors.html">Sponsors</a></li>
+          <li><a href="speakers.html">Speakers</a></li>
+          <li><a href="favorites.html">Favorites</a></li>
+          <li><a href="contact.html">Contact</a></li>
+          <li><a href="http://pghtechfest2012.eventbrite.com/" target="_blank">Register</a></li>
+        </ul>
       </div>
     </div>
-    <div class="page">
+  </div>
+<div class="row">
+      <div class="seven columns">
+      <p>Pittsburgh TechFest is a one-day event where software development professionals from
+      Southwestern Pennsylvania and surrounding areas will get together to talk and learn about
+      perfecting our craft.</p>
+      <p>Due to our generous <a href="#">sponsors</a>, the registration fee is only $10 for
+      the entire day-long event.</p>
 
-      <div class="container">
-          <ul class="nav">
-            {% assign pages_list = site.pages %}
-            {% assign group = 'navigation' %}
-            {% include JB/pages_list %}
-          </ul>
+      </div>
 
-        <div class="content">
-          {{ content }}
-        </div>
 
-        <footer>
-          <p>&copy; {{ site.author.name }} 2012<!-- <br/>site design by:<br>
-          <br>
-          <a href="http://www.treetop.us/"><img src="https://si0.twimg.com/profile_images/1706646743/treetop_mini.png" alt="Treetop Interactive"> Treetop Interactive</a>
-          </p>-->
-        </footer>
+      <div class="five columns">
+      <img src="images/ptf/stock-photo-17097436-pittsburgh-pennsylvania-usa.jpg" ALT="Pittsburgh, Pennsylvania" />
+      </div>
+</div>
 
-      </div> <!-- /container -->
+
+
+    <div class="row">
+      <div class="twelve columns">
+<p>Topics will include coding, tools, agile, project management, etc. All development disciplines (devs, testers, PMs, DBAs, BAs etc.) and all development stacks (Ruby, Java, .Net, JavaScript, Python, SQL Server, Oracle, etc.) are welcome!</p>
+
+
+<p>Get the latest information by joining the <a href="https://groups.google.com/forum/#!forum/pghtechfest">mailing list</a>.</p>
+      </div>
     </div>
-    {% include JB/analytics %}
-  </body>
+
+
+
+
+    <div class="row">
+      <div class="twelve columns">
+
+<div class="highlight"><h3>Location</h3></div>
+<p><a href="http://www.laroche.edu/about-LRC/directions.asp" target="_blank">La Roche College</a> is located in the North Hills suburbs of Pittsburgh.</p>
+
+<div class="highlight"><h3>Registration</h3></div>
+
+
+<p><a href="Registration.html">Registration</a> is now open! For the low cost of $10, enjoy a full day of knowledgeable speakers across a wide variety of topics.</p>
+
+<div class="highlight">
+<h3>This is Our Community</h3>
+</div>
+
+<p>Don't see your group listed?  <a href='mailto:pittsburghtechfest@gmail.com'>Let us know!</a></p>
+
+  <ul id="user-groups">
+    <li><span class="topic">.NET</span><a href="http://pghdotnet.org/" target="_blank">PghDotNet</a></li>
+    <li><span class="topic">Cocoa &amp; iOS</span><a href="http://www.cocoaheads.org/us/PittsburghPennsylvania/index.html"  target="_blank">Cocoaheads Pittsburgh</a></li>
+    <li><span class="topic">Java</span><a href="http://pittjug.java.net/"  target="_blank">PittJUG</a></li>
+    <li><span class="topic">SQL Server</span><a href="http://pitssug.sqlpass.org/Home.aspx"  target="_blank">Pittsburgh SQL Server Users Group</a></li>
+    <li><span class="topic">PHP</span><a href="http://www.meetup.com/Pittsburgh-PHP-Developers-Group/"  target="_blank">Pittsburgh PHP Developers Group</a></li>
+    <li><span class="topic">Ruby</span><a href="http://pghrb.heroku.com/"  target="_blank">Pittsburgh Ruby Brigade</a></li>
+    <li><span class="topic">Powershell</span><a href="http://powershellgroup.org/Pittsburgh.PA"  target="_blank">Pittsburgh Powershell Users Group</a></li>
+    <li><span class="topic">JavaScript</span><a href="http://www.meetup.com/Pittsburgh-JavaScript-Developers/"  target="_blank">Pittsburgh JavaScript Developers</a></li>
+    <li><span class="topic">jQuery</span><a href="http://jburgh.com/"  target="_blank">jBurgh</a></li>
+    <li><span class="topic">Agile</span><a href="http://www.meetup.com/PittsburghAgile/"  target="_blank">PittAgile</a></li>
+    <li><span class="topic">Python</span><a href="http://pghpython.org/"  target="_blank">PGHPython</a></li>
+    <li><span class="topic">Perl</span><a href="http://www.pm.org/"  target="_blank">PerlMongers</a></li>
+    <li><span class="topic">Hadoop</span><a href="http://www.meetup.com/HUG-Pittsburgh/"  target="_blank">Pittsburgh Hadoop</a></li>
+  </ul>
+
+
+<div class="highlight">
+<h3>Want to help? Here are some ways you can get involved!</h3>
+</div>
+    </div>
+      </div>
+
+
+
+
+
+
+    <div id="get-involved" class="row">
+      <div class="four columns">
+      <p>Like the idea, and want to contribute? Become a sponsor.</p>
+      </div>
+
+      <div class="two columns">
+      <a href="Sponsors.html" class="nice radius medium white button">Sponsor Us!</a>
+      </div>
+
+      <div class="four columns">
+      <p>Join the community in our Google Group.</p>
+      </div>
+
+      <div class="two columns last">
+      <a href="https://groups.google.com/forum/#!forum/pghtechfest" target="_blank" class="nice radius medium white button">Join Us!</a>
+      </div>
+    </div>
+
+
+
+
+
+
+
+
+<div id="sponsors">
+    <div class="row">
+      <div class="twelve columns">
+
+      <hr />
+    <h2>Our Sponsors:</h2>
+      </div>
+    </div>
+
+
+    <div class="row">
+      <div class="twelve columns">
+<div class="highlight"><h3>Premier Sponsor</h3></div>
+<p><a href="http://www.componentone.com" target="_blank"><img src="images/ptf/sponsors/componentone.png" ALT="Component One" /></a></p>
+
+<div class="highlight"><h3>Gold Sponsor</h3></div>
+<p><a href="http://www.discountasp.net" target="_blank"><img src="images/ptf/sponsors/daspnet.gif" alt="Discount ASP.Net" /></a> </p>
+<br /><br />
+<div class="highlight"><h3>Silver Sponsors</h3></div>
+<a href="http://www.10gen.com/" target="_blank"><img src="images/10gen_small.jpg" alt="10gen" /></a>
+<a href="http://www.ceiamerica.com/" target="_blank"><img src="images/cei_small.jpg" alt="CEI" /></a>
+<a href="http://www.ciber.com/" target="_blank"><img src="images/ciber_small.png" alt="Ciber" /></a>
+<a href="http://www.gentech.com/"><img src="images/gentech_small.jpg" alt="Gentech" /></a>
+<a href="http://www.microsoft.com/" target="_blank"><img src="images/microsoft_small.jpg" alt="Microsoft" /></a>
+<a href="http://www.Telerik.com/" target="_blank"><img src="images/telerik_small.gif" alt="Telerik" /></a>
+<a href="http://www.red-gate.com/?utm_source=ug&utm_medium=uglogo&utm_content=pittsburgcodecamp&utm_campaign=redgate" target="_blank"><img src="images/redgate_small.png" alt="Smith Micro" /></a>
+<a href="http://www.SmithMicro.com/" target="_blank"><img src="images/SmithMicro_small.jpg" alt="Telerik" /></a>
+
+
+    </div>
+    </div>
+
+
+
+
+</div><!--end sponsors div-->
+
+
+
+
+</div><!--end container-->
+
+
+<div id="footer">
+
+
+
+<!-- container -->
+  <div class="container">
+
+
+<div class="row">
+
+<h3>&copy; Pittsburgh TechFest 2012</h3>
+
+<p>Web Development by <a href="http://www.treetop.us" target="_blank">Treetop Interactive</a></p>
+
+
+
+</div>
+
+
+
+
+</div><!--end second container-->
+</div>
+
+
+
+<script src="js/app.js"></script>
+
+
+
+</body>
 </html>

@@ -1,4 +1,4 @@
 ---
-layout: default
+layout: contact
 ---
 {% include JB/setup %}

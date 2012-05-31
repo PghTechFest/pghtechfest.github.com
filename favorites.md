@@ -1,4 +1,4 @@
 ---
-layout: default
+layout: favorites
 ---
 {% include JB/setup %}
