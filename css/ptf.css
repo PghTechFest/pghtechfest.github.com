@@ -163,7 +163,9 @@ font-size: 16px;
 	vertical-align: middle;
 	margin: 50px;
 }
-
+#sponsors p {
+  text-align: center;
+}
 #sponsors h2 {
 padding-top: 30px;
 padding-bottom: 20px;

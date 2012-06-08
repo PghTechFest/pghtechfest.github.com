@@ -285,6 +285,10 @@ a:hover {
 	margin: 30px;
 }
 
+#sponsors p {
+	text-align: center;
+}
+
 a.button, input[type=submit] {
 	background-color: #7F3300;
 	color: #efefef;
